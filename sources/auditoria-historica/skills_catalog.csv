@@ -1,0 +1,412 @@
+skill_id,skill_name,skill_type_raw,animation_requested_raw,cast_keyframe,actor_effect_ids,item_effect_ids,item_effect_extra_ids,flight_effect_id,impact_target_id,impact_ground_id,impact_water_id,group_effects,magic_effect_files,source
+1,Windslash,1,7,0,100,,,0,101,0,0,,,Client/scripts/table/skillinfo.txt:2
+2,Searing Slash,1,11,0,100,102,,0,103,0,0,,,Client/scripts/table/skillinfo.txt:3
+3,Illusion Slash,1,11,-1,104,,,1010,105,0,0,,10:runningattack.eff,Client/scripts/table/skillinfo.txt:4
+4,Phoenix Slash,1,11,-1,106,,,1011,107,0,0,,11:04000002.eff,Client/scripts/table/skillinfo.txt:5
+5,Fiery Arrow,1,7,-1,108,,,1012,109,0,0,,12:04000003.eff,Client/scripts/table/skillinfo.txt:6
+6,Icy Arrow,1,7,-1,110,,,1013,111,0,0,,"13:04000004.eff,04000004(0).eff",Client/scripts/table/skillinfo.txt:7
+7,Shot Array,1,7,-1,112,,,1014,113,0,0,,"14:04000005.eff,04000005(0).eff",Client/scripts/table/skillinfo.txt:8
+8,Fissure Shot,1,7,-1,114,,,1015,115,0,0,,"15:04000005.eff,04000005(0).eff",Client/scripts/table/skillinfo.txt:9
+9,Flare Shield,1,1,-1,135,,,0,116,0,0,,,Client/scripts/table/skillinfo.txt:10
+10,Great Cannonball,1,1,-1,117,,,1016,0,136,0,,16:04000007.eff,Client/scripts/table/skillinfo.txt:11
+11,Cannon Barrage,1,1,-1,137,,,1017,118,0,0,,17:04000008.eff,Client/scripts/table/skillinfo.txt:12
+12,Sound Burst,1,11,0,119,,,0,138,0,0,,,Client/scripts/table/skillinfo.txt:13
+13,Summon,1,11,-1,120,,,1018,139,0,0,,18:04000009.eff,Client/scripts/table/skillinfo.txt:14
+14,Disguise,1,11,-1,140,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:15
+15,Water Surge,1,11,-1,141,,,1019,121,0,0,,19:04000010.eff,Client/scripts/table/skillinfo.txt:16
+16,Cyclone,1,11,-1,142,,,1020,122,0,0,,"20:icearrowf.eff,icearrowf(a).eff",Client/scripts/table/skillinfo.txt:17
+17,Sacred Ray,1,11,-1,123,,,0,124,0,0,,,Client/scripts/table/skillinfo.txt:18
+18,Guardian Angel,1,11,-1,143,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:19
+19,Benediction,1,11,-1,125,,,0,126,0,0,,,Client/scripts/table/skillinfo.txt:20
+20,Invoke,1,11,-1,144,,,0,145,0,0,,,Client/scripts/table/skillinfo.txt:21
+22,Fallen Pharaoh,1,11,-1,147,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:22
+23,Venom Cloud,2,1,-1,128,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:23
+24,Fireshield,1,11,-1,148,,,0,153,0,0,,,Client/scripts/table/skillinfo.txt:24
+25,Bare Hand,0,"7,8,9",0,,,,0,131,0,0,,,Client/scripts/table/skillinfo.txt:25
+26,Dual Implosion,0,11,0,,,,0,130,0,0,,,Client/scripts/table/skillinfo.txt:26
+27,Cannon Shot,0,7,-1,284,,,1049,0,316,315,,49:cannon02.eff,Client/scripts/table/skillinfo.txt:27
+28,Sword,0,"7,8,9",0,,,,0,131,0,0,,,Client/scripts/table/skillinfo.txt:28
+29,Greatsword,0,"7,8,9",0,,,,0,131,0,0,,,Client/scripts/table/skillinfo.txt:29
+30,Bow,0,"7,8,9",0,,,,1022,131,0,0,,22:arrow.eff,Client/scripts/table/skillinfo.txt:30
+31,Firegun,0,"7,8,9",0,,,,1015,131,0,0,,"15:04000005.eff,04000005(0).eff",Client/scripts/table/skillinfo.txt:31
+32,Blade,0,"7,8,9",0,,,,0,131,0,0,,,Client/scripts/table/skillinfo.txt:32
+33,Boxing Gloves,0,"7,8,9",0,,,,0,131,0,0,,,Client/scripts/table/skillinfo.txt:33
+34,Dagger,0,"7,8,9",0,,,,0,131,0,0,,,Client/scripts/table/skillinfo.txt:34
+35,Gold Pouch,0,"7,8,9",0,,,,0,131,0,0,,,Client/scripts/table/skillinfo.txt:35
+36,Short Staff,0,"7,8,9",0,,,,0,131,0,0,,,Client/scripts/table/skillinfo.txt:36
+37,Hammer,0,"7,8,9",0,,,,0,131,0,0,,,Client/scripts/table/skillinfo.txt:37
+38,Dual Weapon,0,"7,8,9",0,,,,0,131,0,0,,,Client/scripts/table/skillinfo.txt:38
+39,Login,0,11,0,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:39
+40,Set Sail,0,11,0,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:40
+42,Ink Blast,-1,7,-1,,,,1024,226,0,0,,24:04000307.eff,Client/scripts/table/skillinfo.txt:41
+43,Tempest Slash,2,-1,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:42
+44,Gun Research,2,-1,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:43
+45,Angel Blessing,1,7,0,,150,,0,164,0,0,,,Client/scripts/table/skillinfo.txt:44
+46,Parlay Hit,2,-1,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:45
+47,Phantom Slash,1,7,0,,122,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:46
+48,Cure,1,11,0,,126,,0,128,0,0,,,Client/scripts/table/skillinfo.txt:47
+49,Blind,1,7,0,,126,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:48
+50,Protective Shield,2,-1,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:49
+51,Frost Shield,1,7,0,,,,0,129,0,0,,,Client/scripts/table/skillinfo.txt:50
+52,Refined Gunpowder,2,-1,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:51
+53,Attack Weakness,2,-1,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:52
+54,Angel Blessing,2,-1,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:53
+55,Benediction,2,-1,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:54
+56,Inferno Wings,1,11,0,,150,,0,151,0,0,,,Client/scripts/table/skillinfo.txt:55
+57,Holy Beam,1,11,0,137,150,,0,153,0,0,,,Client/scripts/table/skillinfo.txt:56
+58,Holy Heraldry,1,11,0,,150,,0,162,0,0,,,Client/scripts/table/skillinfo.txt:57
+59,Ray of Luck,1,11,0,,167,,0,168,0,0,,,Client/scripts/table/skillinfo.txt:58
+60,Traversing,1,7,0,137,,,0,103,0,0,,,Client/scripts/table/skillinfo.txt:59
+61,Inferno Blast,1,7,0,145,108,,2000,109,0,0,,,Client/scripts/table/skillinfo.txt:60
+62,Sword Mastery,2,-1,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:61
+63,Will of Steel,1,12,0,307,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:62
+64,Strengthen,2,-1,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:63
+65,Deftness,2,-1,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:64
+66,Concentration,2,-1,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:65
+67,Greatsword Mastery,2,-1,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:66
+68,Blood Bull,2,-1,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:67
+69,Evasion,2,8,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:68
+70,Blood Frenzy,2,-1,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:69
+71,Beast Strength,2,-1,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:70
+72,Recuperate,2,-1,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:71
+73,Shield Mastery,2,-1,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:72
+74,Range Mastery,2,-1,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:73
+75,Windwalk,2,-1,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:74
+76,Ranger,2,-1,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:75
+77,Hunter Disguise,2,-1,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:76
+78,Firegun Mastery,2,-1,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:77
+79,Vigor,2,-1,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:78
+80,Divine Grace,2,-1,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:79
+81,Illusion Slash,1,14,0,186,218,,1018,195,0,0,,18:04000009.eff,Client/scripts/table/skillinfo.txt:80
+82,Mighty Strike,1,10,0,187,218,,0,196,0,0,,,Client/scripts/table/skillinfo.txt:81
+83,Primal Rage,1,12,0,102,,,0,103,0,0,,,Client/scripts/table/skillinfo.txt:82
+84,Berserk,1,12,0,117,,,0,0,236,0,,,Client/scripts/table/skillinfo.txt:83
+85,Backstab,1,7,0,,124,,0,125,0,0,,,Client/scripts/table/skillinfo.txt:84
+86,Shadow Slash,1,41,-1,252,218,,0,251,0,0,,,Client/scripts/table/skillinfo.txt:85
+87,Poison Dart,1,40,-1,249,218,,2004,198,0,0,"2004:39,39x1,1 motion=1",39:poisonfly.eff;39:poisonfly.eff,Client/scripts/table/skillinfo.txt:86
+88,Numb,1,7,-1,186,,,1019,199,0,0,,19:04000010.eff,Client/scripts/table/skillinfo.txt:87
+89,Eagle's Eye,1,12,0,213,,,0,215,0,0,,,Client/scripts/table/skillinfo.txt:88
+90,Dual Shot,1,7,0,105,,,2002,104,0,0,"2002:10,25,26x1,1,1 motion=1",10:runningattack.eff;25:runningattack2.eff;26:runningattack3.eff,Client/scripts/table/skillinfo.txt:89
+91,Hunter Strike,1,7,0,186,,,0,125,0,0,,,Client/scripts/table/skillinfo.txt:90
+92,Astro Strike,1,7,-1,139,,,1016,140,0,0,,16:04000007.eff,Client/scripts/table/skillinfo.txt:91
+93,Frozen Arrow,1,7,0,296,,,1020,0,0,0,,"20:icearrowf.eff,icearrowf(a).eff",Client/scripts/table/skillinfo.txt:92
+94,Cripple,1,7,0,,256,142,0,144,0,0,,,Client/scripts/table/skillinfo.txt:93
+95,Enfeeble,1,7,0,,256,260,0,261,0,0,,,Client/scripts/table/skillinfo.txt:94
+96,Headshot,1,7,0,,256,257,0,258,0,0,,,Client/scripts/table/skillinfo.txt:95
+97,Heal,1,12,0,113,,,0,114,0,0,,,Client/scripts/table/skillinfo.txt:96
+98,Recover,1,11,0,219,159,,0,148,0,0,,,Client/scripts/table/skillinfo.txt:97
+99,Spiritual Bolt,1,11,-1,190,,,2003,0,0,0,"2003:21,37,38x1,1,1 motion=1",21:hpushf02.eff;37:hpushf03.eff;38:hpushf04.eff,Client/scripts/table/skillinfo.txt:98
+100,Spiritual Fire,1,12,-1,191,,,0,202,0,0,,,Client/scripts/table/skillinfo.txt:99
+101,Tempest Boost,1,12,0,192,,,0,170,0,0,,,Client/scripts/table/skillinfo.txt:100
+102,Tornado Swirl,1,12,0,193,247,,0,203,0,0,,,Client/scripts/table/skillinfo.txt:101
+103,Angelic Shield,1,12,0,159,194,,0,160,0,0,,,Client/scripts/table/skillinfo.txt:102
+104,Seal of Elder,1,12,0,204,,,0,205,0,0,,,Client/scripts/table/skillinfo.txt:103
+105,Shadow Insignia,1,12,0,244,245,,0,0,179,0,,,Client/scripts/table/skillinfo.txt:104
+106,Energy Shield,1,12,0,246,247,,0,248,0,0,,,Client/scripts/table/skillinfo.txt:105
+107,Howl,1,12,0,100,,,0,101,0,0,,,Client/scripts/table/skillinfo.txt:106
+108,Barbaric Crush,1,11,0,117,,,0,101,0,0,,,Client/scripts/table/skillinfo.txt:107
+109,Dual Sword Mastery,2,-1,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:108
+110,Shield of Thorns,2,-1,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:109
+111,Parry,1,13,0,,136,,0,109,0,0,,,Client/scripts/table/skillinfo.txt:110
+112,Meteor Shower,1,13,0,107,,,0,0,106,0,,,Client/scripts/table/skillinfo.txt:111
+113,Magma Bullet,1,7,0,254,255,,0,0,111,0,,,Client/scripts/table/skillinfo.txt:112
+114,Dispersion Bullet,1,7,-1,,108,,2000,109,0,0,,,Client/scripts/table/skillinfo.txt:113
+115,Penetrating Bullet,1,7,-1,,108,,1012,110,0,0,,12:04000003.eff,Client/scripts/table/skillinfo.txt:114
+116,True Sight,1,12,0,175,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:115
+117,Greater Heal,1,11,0,113,,,0,114,0,0,,,Client/scripts/table/skillinfo.txt:116
+118,Greater Recover,1,11,0,,159,,0,133,149,0,,,Client/scripts/table/skillinfo.txt:117
+119,Cursed Fire,1,12,0,157,243,,0,0,185,0,,,Client/scripts/table/skillinfo.txt:118
+120,Counterguard,1,12,0,,150,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:119
+121,Abyss Mire,1,12,0,237,238,,0,0,239,0,,,Client/scripts/table/skillinfo.txt:120
+122,Healing Spring,1,12,0,241,242,,0,0,165,0,,,Client/scripts/table/skillinfo.txt:121
+123,Stealth,1,12,0,121,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:122
+124,Revival,1,12,0,113,,,0,148,0,0,,,Client/scripts/table/skillinfo.txt:123
+125,Totem's Worship,2,-1,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:124
+126,Gunpowder Research,2,-1,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:125
+127,Tiger Roar,1,12,0,294,,,0,101,0,0,,,Client/scripts/table/skillinfo.txt:126
+128,Saliva of Lizard,0,7,0,,,,1027,226,0,0,,27:04000308.eff,Client/scripts/table/skillinfo.txt:127
+129,Needle of Stramonium,0,7,0,,,,0,0,227,0,,,Client/scripts/table/skillinfo.txt:128
+130,Stone of Treant,0,7,0,,,,1028,0,0,0,,28:stone.eff,Client/scripts/table/skillinfo.txt:129
+131,Panda's Bamboo Shoot,0,7,0,,,,1029,229,0,0,,29:04000314.eff,Client/scripts/table/skillinfo.txt:130
+132,Bolt of Terra Elder,0,7,0,,,,1031,230,0,0,,31:04000315.eff,Client/scripts/table/skillinfo.txt:131
+133,Bolt of Naiad,0,7,0,,,,1032,231,0,0,,32:04000316.eff,Client/scripts/table/skillinfo.txt:132
+134,Oyster,0,7,0,,,,1030,232,0,0,,30:04000317.eff,Client/scripts/table/skillinfo.txt:133
+135,Bubble Clam,0,7,0,,,,1035,235,0,0,,35:04000312.eff,Client/scripts/table/skillinfo.txt:134
+136,Baby Icy Dragon,0,7,0,,,,1033,233,0,0,,33:04000310.eff,Client/scripts/table/skillinfo.txt:135
+137,Icy Dragoon,0,8,0,,,,1034,234,0,0,,34:04000310.eff,Client/scripts/table/skillinfo.txt:136
+138,Shadow Quiver,0,7,0,,,,1036,131,0,0,,36:04000318.eff,Client/scripts/table/skillinfo.txt:137
+139,Mist of Snow Lady,0,8,0,262,,,0,235,0,0,,,Client/scripts/table/skillinfo.txt:138
+140,Fireball of Chieftain,0,10,0,,,,1041,0,0,0,,41:04000321.eff,Client/scripts/table/skillinfo.txt:139
+141,Werewolf Quiver,0,7,0,,,,1042,0,0,0,,42:04000325.eff,Client/scripts/table/skillinfo.txt:140
+142,Fireball of Giant Slug,0,10,0,,,,1043,0,0,0,,43:04000324.eff,Client/scripts/table/skillinfo.txt:141
+143,Icecube of King Penguin,0,7,0,,,,1044,0,0,0,,44:04000310.eff,Client/scripts/table/skillinfo.txt:142
+144,Dart of Ninja Mole,0,7,0,,,,1045,0,0,0,,45:04000319.eff,Client/scripts/table/skillinfo.txt:143
+145,Heart of Mermaid,0,7,0,,,,1046,0,0,0,,46:04000320(a).eff,Client/scripts/table/skillinfo.txt:144
+146,Relic Protector,0,7,0,,,,0,0,264,0,,,Client/scripts/table/skillinfo.txt:145
+147,Wave of King Tortoise,0,10,0,263,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:146
+148,Bubble of Water Dancer,0,7,0,,,,1047,0,0,0,,47:04000320(a).eff,Client/scripts/table/skillinfo.txt:147
+149,Mud of Mudman,0,7,0,,,,1048,0,0,0,,48:04000322.eff,Client/scripts/table/skillinfo.txt:148
+150,Hand of Stramonium,0,"7,8,9",0,,,,0,131,0,0,,,Client/scripts/table/skillinfo.txt:149
+151,Guardian Angel,0,7,0,311,,,1051,0,0,0,,51:01050039.eff,Client/scripts/table/skillinfo.txt:150
+152,Soul of Goddess,0,8,0,"312,313",,,0,314,0,0,,,Client/scripts/table/skillinfo.txt:151
+153,Mist of Snow Queen,0,"7,8,9",0,262,,,0,235,0,0,,,Client/scripts/table/skillinfo.txt:152
+154,Lump of Mud King,0,"7,8,9",0,,,,1048,0,0,0,,48:04000322.eff,Client/scripts/table/skillinfo.txt:153
+200,Woodcutting,0,29,0,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:154
+201,Mining,0,28,0,,,,0,216,0,0,,,Client/scripts/table/skillinfo.txt:155
+202,Sit,1,-1,0,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:156
+210,Diligence,2,-1,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:157
+211,Current,2,-1,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:158
+212,Conch Armor,2,-1,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:159
+213,Tornado,1,12,-1,272,,,0,273,0,0,,,Client/scripts/table/skillinfo.txt:160
+214,Lightning Bolt,1,12,-1,269,,,0,270,0,0,,,Client/scripts/table/skillinfo.txt:161
+215,Algae Entanglement,1,7,0,275,,,0,276,0,0,,,Client/scripts/table/skillinfo.txt:162
+216,Conch Ray,1,13,0,"265,266",,,0,267,0,0,,,Client/scripts/table/skillinfo.txt:163
+217,Tail Wind,1,12,0,285,247,,0,286,0,0,,,Client/scripts/table/skillinfo.txt:164
+218,Whirlpool,1,12,0,278,247,,0,0,279,0,,,Client/scripts/table/skillinfo.txt:165
+219,Fog,1,12,0,281,247,,0,282,0,0,,,Client/scripts/table/skillinfo.txt:166
+220,Lightning Curtain,1,12,0,288,247,,0,289,290,0,,,Client/scripts/table/skillinfo.txt:167
+222,Break Armor,1,15,0,304,,,0,305,0,0,,,Client/scripts/table/skillinfo.txt:168
+223,Rousing,1,12,-1,303,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:169
+224,Venom Arrow,1,7,-1,298,,,1050,0,0,0,,50:parrowf.eff,Client/scripts/table/skillinfo.txt:170
+225,Harden,1,12,-1,299,,,0,300,0,0,,,Client/scripts/table/skillinfo.txt:171
+226,Cannon Mastery,2,-1,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:172
+227,Toughen Wood,2,-1,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:173
+228,Sail Mastery,2,-1,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:174
+229,Reinforce Ship,2,-1,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:175
+230,Oil Tank Upgrade,2,-1,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:176
+231,Fishing,1,1,-1,308,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:177
+232,Salvage,1,1,-1,310,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:178
+233,Bombardment,0,7,-1,284,,,1049,0,316,315,,49:cannon02.eff,Client/scripts/table/skillinfo.txt:179
+234,Death Shriek,1,11,-1,317,,,0,318,0,0,,,Client/scripts/table/skillinfo.txt:180
+235,Blood Fury,1,10,0,320,,,1052,322,0,0,,52:xnfxa.eff,Client/scripts/table/skillinfo.txt:181
+236,Lair,1,10,0,,,,1053,323,0,0,,53:darrow.eff,Client/scripts/table/skillinfo.txt:182
+237,Earthquake,1,10,-1,325,,,0,0,326,0,,,Client/scripts/table/skillinfo.txt:183
+238,Colossus Smash,1,11,0,333,,,0,195,0,0,,,Client/scripts/table/skillinfo.txt:184
+239,Kiss of Frost,1,10,-1,327,,,0,328,0,0,,,Client/scripts/table/skillinfo.txt:185
+240,Tempest Blade,1,11,-1,"330,331",,,0,332,0,0,,,Client/scripts/table/skillinfo.txt:186
+241,Set Stall,1,29,0,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:187
+242,Taunt,1,11,-1,336,,,0,337,0,0,,,Client/scripts/table/skillinfo.txt:188
+243,Roar,1,12,-1,338,,,0,337,0,0,,,Client/scripts/table/skillinfo.txt:189
+244,Replicate,1,12,0,121,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:190
+245,Alga Ambush,1,12,0,294,,,0,101,0,0,,,Client/scripts/table/skillinfo.txt:191
+246,Jellyfish Electric Bolt,1,12,0,288,247,,0,289,290,0,,,Client/scripts/table/skillinfo.txt:192
+247,Squid Whirlstrike,1,12,0,100,,,0,101,0,0,,,Client/scripts/table/skillinfo.txt:193
+248,Shark Attack,1,14,0,186,218,,1018,195,0,0,,18:04000009.eff,Client/scripts/table/skillinfo.txt:194
+249,Polliwog Self Explode,1,12,0,100,,,0,101,0,0,,,Client/scripts/table/skillinfo.txt:195
+250,Primal Skill 1,1,11,0,339,,,0,341,0,0,,,Client/scripts/table/skillinfo.txt:196
+251,Primal Rage 2,1,10,0,340,,,0,267,0,0,,,Client/scripts/table/skillinfo.txt:197
+252,Water Mine Explosion,1,7,-1,390,,,0,101,0,0,,,Client/scripts/table/skillinfo.txt:198
+253,Cannon Strike,0,7,-1,,,,1053,131,0,0,,53:darrow.eff,Client/scripts/table/skillinfo.txt:199
+254,Repair,0,38,0,,,,0,216,0,0,,,Client/scripts/table/skillinfo.txt:200
+255,Crystalline Blessing,1,12,-1,299,,,0,300,0,0,,,Client/scripts/table/skillinfo.txt:201
+256,Intense Magic,1,12,-1,344,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:202
+257,Corpse Attack,1,7,0,"347,347",,,0,131,0,0,,,Client/scripts/table/skillinfo.txt:203
+258,Corpse Range Attack,1,7,0,349,,,0,131,0,0,,,Client/scripts/table/skillinfo.txt:204
+259,Fox Taoist Sorcery,1,7,-1,350,,,1054,131,0,0,,54:hymffx.eff,Client/scripts/table/skillinfo.txt:205
+260,Fox Spirit Sorcery,1,7,-1,352,,,1055,131,0,0,,55:hxmffx.eff,Client/scripts/table/skillinfo.txt:206
+261,Fascinate,1,7,-1,371,,,0,131,0,0,,,Client/scripts/table/skillinfo.txt:207
+262,Fox Immortal Sorcery,1,7,-1,372,,,1055,131,0,0,,55:hxmffx.eff,Client/scripts/table/skillinfo.txt:208
+263,Fox Immortal Area Spell,1,7,-1,373,,,0,131,0,0,,,Client/scripts/table/skillinfo.txt:209
+264,Ritual,1,7,-1,374,,,0,131,0,0,,,Client/scripts/table/skillinfo.txt:210
+265,Sachem's Witchcraft,1,10,-1,375,,,0,101,0,0,,,Client/scripts/table/skillinfo.txt:211
+266,Whirling Hook,1,11,-1,"805,806",,,0,131,0,0,,,Client/scripts/table/skillinfo.txt:212
+267,Dog Howl,1,11,-1,314,,,0,101,0,0,,,Client/scripts/table/skillinfo.txt:213
+268,Corpse Venom,1,10,0,802,,,1052,131,0,0,,52:xnfxa.eff,Client/scripts/table/skillinfo.txt:214
+269,Icy Dragon Strike,1,8,0,800,,,1033,0,376,0,,33:04000310.eff,Client/scripts/table/skillinfo.txt:215
+270,Cyborg Blockade,1,7,-1,"265,266",,,0,267,0,0,,,Client/scripts/table/skillinfo.txt:216
+271,Crab Binding,1,7,0,371,,,1056,131,0,0,,56:04000316.eff,Client/scripts/table/skillinfo.txt:217
+272,Curse of Kelpie,1,7,0,372,,,1057,131,0,0,,57:zzgq.eff,Client/scripts/table/skillinfo.txt:218
+273,Frost Breath,1,7,0,801,,,1033,0,377,0,,33:04000310.eff,Client/scripts/table/skillinfo.txt:219
+274,Dance of Icy Dragon,1,11,-1,380,,,0,131,0,0,,,Client/scripts/table/skillinfo.txt:220
+275,Black Dragon Terror,1,11,-1,379,,,0,101,0,0,,,Client/scripts/table/skillinfo.txt:221
+276,Black Dragon Roar,1,11,-1,808,,,0,198,0,0,,,Client/scripts/table/skillinfo.txt:222
+277,Black Dragon Flight,1,12,-1,804,,,0,101,0,0,,,Client/scripts/table/skillinfo.txt:223
+278,Black Dragon Breath,1,10,7,803,,,1059,267,0,0,,"59:lx.eff,lx2.eff",Client/scripts/table/skillinfo.txt:224
+279,Resurrect,1,11,0,113,,,0,114,0,0,,,Client/scripts/table/skillinfo.txt:225
+280,Fairy body,1,12,0,117,,,0,0,236,0,,,Client/scripts/table/skillinfo.txt:226
+281,Black Dragon Roar,1,12,-1,881,,,0,882,0,0,,,Client/scripts/table/skillinfo.txt:227
+282,Black Dragon Lightning Bolt,1,12,-1,883,,,1061,0,0,0,,"61:bdlighting1.eff,bdlighting3.eff",Client/scripts/table/skillinfo.txt:228
+283,Black Dragon Illusion Slash,1,12,-1,886,,,1060,888,0,0,,"60:bdwindf1.eff,bdwindf4.eff",Client/scripts/table/skillinfo.txt:229
+284,Black Dragon Fireball,1,7,-1,889,,,1062,891,892,0,,62:zzfireball.eff,Client/scripts/table/skillinfo.txt:230
+285,Black Dragon Summon,1,11,-1,893,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:231
+286,Deathsoul Magma Bullet,1,11,-1,284,,,1063,900,0,315,,,Client/scripts/table/skillinfo.txt:232
+287,Deathsoul Acceleration,1,11,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:233
+288,Firegun Attack,1,"7,8,9",0,905,,,0,909,0,0,,,Client/scripts/table/skillinfo.txt:234
+289,Deathsoul Roquet,1,11,-1,,,,0,902,0,0,,,Client/scripts/table/skillinfo.txt:235
+290,Laser Beam,1,11,-1,903,,,0,904,0,0,,,Client/scripts/table/skillinfo.txt:236
+291,Deathsoul Poison Dart,1,10,-1,249,,,2004,198,0,0,"2004:39,39x1,1 motion=1",39:poisonfly.eff;39:poisonfly.eff,Client/scripts/table/skillinfo.txt:237
+292,Deathsoul Summon,1,11,-1,906,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:238
+293,Ranged Blast,1,11,-1,,,,0,907,0,0,,,Client/scripts/table/skillinfo.txt:239
+294,Cloud Attack,1,11,-1,281,,,0,282,0,0,,,Client/scripts/table/skillinfo.txt:240
+295,Encumbered Skeleton,1,11,0,,,,0,910,0,0,,,Client/scripts/table/skillinfo.txt:241
+296,Mytho Teleportation,1,11,-1,911,,,0,911,0,0,,,Client/scripts/table/skillinfo.txt:242
+297,Skeletar Shielding,1,11,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:243
+298,Evil Attack,1,11,-1,,,,1064,923,0,0,,,Client/scripts/table/skillinfo.txt:244
+299,Deathsoul Slice,1,11,-1,913,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:245
+301,Roar of Deathsoul,1,11,-1,914,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:246
+302,Deathsoul Taunt,1,10,-1,915,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:247
+303,Cursed Blood,1,12,-1,925,,,0,916,0,0,,,Client/scripts/table/skillinfo.txt:248
+304,Moonlight Recovery,1,11,-1,917,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:249
+305,Deathsoul Water Arrow,1,11,-1,,,,1066,924,0,0,,,Client/scripts/table/skillinfo.txt:250
+306,Deathsoul Whirlpool,1,11,-1,278,,,0,0,918,0,,,Client/scripts/table/skillinfo.txt:251
+307,Deathsoul Lightning Curtain,1,11,-1,288,,,0,289,290,0,,,Client/scripts/table/skillinfo.txt:252
+308,Bomb Throwing,1,12,1,,,,1065,919,0,0,,,Client/scripts/table/skillinfo.txt:253
+309,Spiritual Dart,-1,7,-1,,,,1024,226,0,0,,24:04000307.eff,Client/scripts/table/skillinfo.txt:254
+310,Physical Dart,-1,7,-1,,,,1024,226,0,0,,24:04000307.eff,Client/scripts/table/skillinfo.txt:255
+311,Self Destruct,1,12,0,252,,,0,891,892,0,,,Client/scripts/table/skillinfo.txt:256
+312,Skill - Defecate,1,12,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:257
+313,Skill - Undergarment,1,12,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:258
+314,Skill - Garment,1,12,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:259
+315,Skill - Coin Shower,1,12,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:260
+316,Skill - Fool,1,12,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:261
+317,Skill - Snooty,1,12,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:262
+318,Skill - Trickster,1,12,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:263
+319,Skill - Dumb,1,12,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:264
+320,Shoe Barrage,1,7,0,,,,0,927,0,0,,,Client/scripts/table/skillinfo.txt:265
+321,Cooking,0,29,0,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:266
+322,Manufacturing,0,29,0,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:267
+323,Crafting,0,29,0,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:268
+324,Analyze,0,29,0,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:269
+325,Illusion Slash Illusion,1,14,0,186,218,,1018,195,0,0,,18:04000009.eff,Client/scripts/table/skillinfo.txt:270
+326,Conch Ray Illusion,1,13,0,"265,266",,,0,267,0,0,,,Client/scripts/table/skillinfo.txt:271
+327,Headshot Illusion,1,7,0,,256,257,0,258,0,0,,,Client/scripts/table/skillinfo.txt:272
+328,Spiritual Bolt Illusion,1,11,-1,190,,,2003,0,0,0,"2003:21,37,38x1,1,1 motion=1",21:hpushf02.eff;37:hpushf03.eff;38:hpushf04.eff,Client/scripts/table/skillinfo.txt:273
+329,Grenade,1,"7,8,9",-1,,,,0,907,0,0,,,Client/scripts/table/skillinfo.txt:274
+330,Flash Bomb,1,"7,8,9",-1,,,,1067,0,223,0,,,Client/scripts/table/skillinfo.txt:275
+331,Radiation,1,12,-1,221,218,,2004,198,0,0,"2004:39,39x1,1 motion=1",39:poisonfly.eff;39:poisonfly.eff,Client/scripts/table/skillinfo.txt:276
+332,Soul Detector,1,12,0,175,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:277
+333,Ship Accelerator,1,11,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:278
+334,Ship Atomizer,1,11,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:279
+335,Ship Penetrator,1,11,-1,,,,1064,305,0,315,,,Client/scripts/table/skillinfo.txt:280
+336,Ship Impaler,1,11,-1,,,,1064,305,0,315,,,Client/scripts/table/skillinfo.txt:281
+337,Ship Flamer,1,11,-1,284,,,1063,900,0,315,,,Client/scripts/table/skillinfo.txt:282
+338,Manufacturing,0,29,0,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:283
+339,Cooking,0,29,0,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:284
+340,Crafting,0,29,0,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:285
+341,Analyze,0,29,0,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:286
+342,Grenade Lv2,1,"7,8,9",-1,,,,0,907,0,0,,,Client/scripts/table/skillinfo.txt:287
+343,Flash Bomb Lv2,1,"7,8,9",-1,,,,1067,0,223,0,,,Client/scripts/table/skillinfo.txt:288
+344,Radiation Lv2,1,12,-1,221,218,,2004,198,0,0,"2004:39,39x1,1 motion=1",39:poisonfly.eff;39:poisonfly.eff,Client/scripts/table/skillinfo.txt:289
+345,Soul Detector Lv2,1,12,0,175,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:290
+346,Ship Accelerator Lv2,1,11,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:291
+347,Ship Atomizer Lv2,1,11,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:292
+348,Ship Penetrator Lv2,1,11,-1,,,,1064,305,0,315,,,Client/scripts/table/skillinfo.txt:293
+349,Ship Impaler Lv2,1,11,-1,,,,1064,305,0,315,,,Client/scripts/table/skillinfo.txt:294
+350,Ship Flamer Lv2,1,11,-1,284,,,1063,900,0,315,,,Client/scripts/table/skillinfo.txt:295
+351,Grenade Lv3,1,"7,8,9",-1,,,,0,907,0,0,,,Client/scripts/table/skillinfo.txt:296
+352,Flash Bomb Lv3,1,"7,8,9",-1,,,,1067,0,223,0,,,Client/scripts/table/skillinfo.txt:297
+353,Radiation Lv3,1,12,-1,221,218,,2004,198,0,0,"2004:39,39x1,1 motion=1",39:poisonfly.eff;39:poisonfly.eff,Client/scripts/table/skillinfo.txt:298
+354,Soul Detector Lv3,1,12,0,175,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:299
+355,Ship Accelerator Lv3,1,11,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:300
+356,Ship Atomizer Lv3,1,11,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:301
+357,Ship Penetrator Lv3,1,11,-1,,,,1064,305,0,315,,,Client/scripts/table/skillinfo.txt:302
+358,Ship Impaler Lv3,1,11,-1,,,,1064,305,0,315,,,Client/scripts/table/skillinfo.txt:303
+359,Ship Flamer Lv3,1,11,-1,284,,,1063,900,0,315,,,Client/scripts/table/skillinfo.txt:304
+360,Grenade Lv4,1,"7,8,9",-1,,,,0,907,0,0,,,Client/scripts/table/skillinfo.txt:305
+361,Flash Bomb Lv4,1,"7,8,9",-1,,,,1067,0,223,0,,,Client/scripts/table/skillinfo.txt:306
+362,Radiation Lv4,1,12,-1,221,218,,2004,198,0,0,"2004:39,39x1,1 motion=1",39:poisonfly.eff;39:poisonfly.eff,Client/scripts/table/skillinfo.txt:307
+363,Soul Detector Lv4,1,12,0,175,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:308
+364,Ship Accelerator Lv4,1,11,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:309
+365,Ship Atomizer Lv4,1,11,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:310
+366,Ship Penetrator Lv4,1,11,-1,,,,1064,305,0,315,,,Client/scripts/table/skillinfo.txt:311
+367,Ship Impaler Lv4,1,11,-1,,,,1064,305,0,315,,,Client/scripts/table/skillinfo.txt:312
+368,Ship Flamer Lv4,1,11,-1,284,,,1063,900,0,315,,,Client/scripts/table/skillinfo.txt:313
+369,Grenade Lv5,1,"7,8,9",-1,,,,0,907,0,0,,,Client/scripts/table/skillinfo.txt:314
+370,Flash Bomb Lv5,1,"7,8,9",-1,,,,1067,0,223,0,,,Client/scripts/table/skillinfo.txt:315
+371,Radiation Lv5,1,12,-1,221,218,,2004,198,0,0,"2004:39,39x1,1 motion=1",39:poisonfly.eff;39:poisonfly.eff,Client/scripts/table/skillinfo.txt:316
+372,Soul Detector Lv5,1,12,0,175,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:317
+373,Ship Accelerator Lv5,1,11,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:318
+374,Ship Atomizer Lv5,1,11,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:319
+375,Ship Penetrator Lv5,1,11,-1,,,,1064,305,0,315,,,Client/scripts/table/skillinfo.txt:320
+376,Ship Impaler Lv5,1,11,-1,,,,1064,305,0,315,,,Client/scripts/table/skillinfo.txt:321
+377,Ship Flamer Lv5,1,11,-1,284,,,1063,900,0,315,,,Client/scripts/table/skillinfo.txt:322
+378,Little Snow Ball,1,"7,8,9",-1,,,,1067,928,0,0,,,Client/scripts/table/skillinfo.txt:323
+379,Carrion Ball Lv1,1,"7,8,9",-1,304,,,1064,318,0,0,,,Client/scripts/table/skillinfo.txt:324
+380,Noise Polluter Lv1,1,12,0,325,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:325
+381,Earthquake Generator Lv1,1,12,0,263,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:326
+382,Chain Bullet Lv1,1,11,-1,,,,1065,305,0,0,,,Client/scripts/table/skillinfo.txt:327
+383,Mirage Generator Lv1,1,11,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:328
+384,Stealth Ship Lv1,1,11,-1,121,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:329
+385,Radar Lv1,1,11,-1,175,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:330
+386,Hull Repair Lv1,1,11,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:331
+387,Food Generation Lv1,1,11,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:332
+388,Carrion Bullet Lv1,1,11,-1,,,,2004,318,0,0,"2004:39,39x1,1 motion=1",39:poisonfly.eff;39:poisonfly.eff,Client/scripts/table/skillinfo.txt:333
+389,Illusion Generator Lv1,1,11,-1,131,,,0,131,0,0,,,Client/scripts/table/skillinfo.txt:334
+390,Exploding Lamb Lv1,1,7,-1,390,,,0,101,0,0,,,Client/scripts/table/skillinfo.txt:335
+391,Water Mine Lv1,1,7,-1,390,,,0,101,0,0,,,Client/scripts/table/skillinfo.txt:336
+392,Carrion Ball Lv2,1,"7,8,9",-1,304,,,1064,318,0,0,,,Client/scripts/table/skillinfo.txt:337
+393,Noise Polluter Lv2,1,12,0,325,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:338
+394,Earthquake Generator Lv2,1,12,0,263,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:339
+395,Chain Bullet Lv2,1,11,-1,,,,1065,305,0,0,,,Client/scripts/table/skillinfo.txt:340
+396,Mirage Generator Lv2,1,11,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:341
+397,Stealth Ship Lv2,1,11,-1,121,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:342
+398,Radar Lv2,1,11,-1,175,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:343
+399,Hull Repair Lv2,1,11,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:344
+400,Food Generation Lv2,1,11,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:345
+401,Carrion Bullet Lv2,1,11,-1,,,,2004,318,0,0,"2004:39,39x1,1 motion=1",39:poisonfly.eff;39:poisonfly.eff,Client/scripts/table/skillinfo.txt:346
+402,?????LV2,1,11,-1,131,,,0,131,0,0,,,Client/scripts/table/skillinfo.txt:347
+403,Exploding Lamb Lv2,1,7,-1,390,,,0,101,0,0,,,Client/scripts/table/skillinfo.txt:348
+404,Water Mine Lv2,1,7,-1,390,,,0,101,0,0,,,Client/scripts/table/skillinfo.txt:349
+405,Carrion Ball Lv3,1,"7,8,9",-1,304,,,1064,318,0,0,,,Client/scripts/table/skillinfo.txt:350
+406,Noise Polluter Lv3,1,12,0,325,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:351
+407,Earthquake Generator Lv3,1,12,0,263,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:352
+408,Chain Bullet Lv3,1,11,-1,,,,1065,305,0,0,,,Client/scripts/table/skillinfo.txt:353
+409,Mirage Generator Lv3,1,11,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:354
+410,Stealth Ship Lv3,1,11,-1,121,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:355
+411,Radar Lv3,1,11,-1,175,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:356
+412,Hull Repair Lv3,1,11,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:357
+413,Food Generation Lv3,1,11,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:358
+414,Carrion Bullet Lv3,1,11,-1,,,,2004,318,0,0,"2004:39,39x1,1 motion=1",39:poisonfly.eff;39:poisonfly.eff,Client/scripts/table/skillinfo.txt:359
+415,Illusion Generator Lv3,1,11,-1,131,,,0,131,0,0,,,Client/scripts/table/skillinfo.txt:360
+416,Exploding Lamb Lv3,1,7,-1,390,,,0,101,0,0,,,Client/scripts/table/skillinfo.txt:361
+417,Water Mine Lv3,1,7,-1,390,,,0,101,0,0,,,Client/scripts/table/skillinfo.txt:362
+418,Carrion Ball Lv4,1,"7,8,9",-1,304,,,1064,318,0,0,,,Client/scripts/table/skillinfo.txt:363
+419,Noise Polluter Lv4,1,12,0,325,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:364
+420,Earthquake Generator Lv4,1,12,0,263,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:365
+421,Chain Bullet Lv4,1,11,-1,,,,1065,305,0,0,,,Client/scripts/table/skillinfo.txt:366
+422,Illusion Generator Lv4,1,11,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:367
+423,Stealth Ship Lv4,1,11,-1,121,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:368
+424,Radar Lv4,1,11,-1,175,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:369
+425,Hull Repair Lv4,1,11,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:370
+426,Food Generation Lv4,1,11,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:371
+427,Carrion Bullet Lv4,1,11,-1,,,,2004,318,0,0,"2004:39,39x1,1 motion=1",39:poisonfly.eff;39:poisonfly.eff,Client/scripts/table/skillinfo.txt:372
+428,Illusion Generator Lv4,1,11,-1,131,,,0,131,0,0,,,Client/scripts/table/skillinfo.txt:373
+429,Exploding Lamb Lv4,1,7,-1,390,,,0,101,0,0,,,Client/scripts/table/skillinfo.txt:374
+430,Water Mine Lv4,1,7,-1,390,,,0,101,0,0,,,Client/scripts/table/skillinfo.txt:375
+431,Carrion Ball Lv5,1,"7,8,9",-1,304,,,1064,318,0,0,,,Client/scripts/table/skillinfo.txt:376
+432,Noise Polluter Lv5,1,12,0,325,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:377
+433,?????LV5,1,12,0,263,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:378
+434,Chain Bullet Lv5,1,11,-1,,,,1065,305,0,0,,,Client/scripts/table/skillinfo.txt:379
+435,Mirage Generator Lv5,1,11,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:380
+436,Stealth Ship Lv5,1,11,-1,121,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:381
+437,??LV5,1,11,-1,175,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:382
+438,Hull Repair Lv5,1,11,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:383
+439,Food Generation Lv5,1,11,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:384
+440,???LV5,1,11,-1,,,,2004,318,0,0,"2004:39,39x1,1 motion=1",39:poisonfly.eff;39:poisonfly.eff,Client/scripts/table/skillinfo.txt:385
+441,Illusion Generator Lv5,1,11,-1,131,,,0,131,0,0,,,Client/scripts/table/skillinfo.txt:386
+442,Exploding Lamb Lv5,1,7,-1,390,,,0,101,0,0,,,Client/scripts/table/skillinfo.txt:387
+443,Water Mine Lv5,1,7,-1,390,,,0,101,0,0,,,Client/scripts/table/skillinfo.txt:388
+444,Blessed Potion,1,11,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:389
+445,Drag Tower,0,7,-1,,,,1070,0,0,0,,,Client/scripts/table/skillinfo.txt:390
+446,Devil Tower,0,7,-1,,,,1069,929,0,0,,,Client/scripts/table/skillinfo.txt:391
+447,Serpent Attack,0,14,0,186,,,1068,195,0,0,,,Client/scripts/table/skillinfo.txt:392
+448,Pirate Wave,0,10,0,,,,1072,931,0,0,,,Client/scripts/table/skillinfo.txt:393
+449,Navy Wave,0,10,0,,,,1071,930,0,0,,,Client/scripts/table/skillinfo.txt:394
+450,Spirit Lash,0,11,-1,190,,,2003,0,0,0,"2003:21,37,38x1,1,1 motion=1",21:hpushf02.eff;37:hpushf03.eff;38:hpushf04.eff,Client/scripts/table/skillinfo.txt:395
+451,Sacred Candle,1,11,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:396
+452,Goddess Statue,1,11,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:397
+453,Ethereal Slash,1,14,0,,,,0,195,939,0,,,Client/scripts/table/skillinfo.txt:398
+454,Super Consciousness,1,12,0,,,,0,131,0,0,,,Client/scripts/table/skillinfo.txt:399
+455,Beast Legion Smash,1,12,0,102,,,0,0,938,0,,,Client/scripts/table/skillinfo.txt:400
+456,Red Thunder Cannon,1,"7,8,9",0,940,,,0,267,0,0,,,Client/scripts/table/skillinfo.txt:401
+457,Devil Curse,1,12,0,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:402
+458,Holy Judgement,1,12,0,,,,0,0,935,0,,,Client/scripts/table/skillinfo.txt:403
+459,Rebirth Mystic Power,2,11,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:404
+460,Frozen ring,1,12,0,880,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:405
+461,??,1,-1,0,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:406
+462,????????,1,11,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:407
+463,????,1,11,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:408
+464,????,1,11,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:409
+465,????,1,11,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:410
+466,????,1,11,-1,,,,0,0,0,0,,,Client/scripts/table/skillinfo.txt:411
+475,Newbie Strike,1,10,0,187,218,,0,196,0,0,,,Client/scripts/table/skillinfo.txt:412

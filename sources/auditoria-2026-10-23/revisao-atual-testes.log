@@ -1,0 +1,148 @@
+Internal ctest changing into directory: /home/elieltavares/DEV/TOP2/TalesOfPirateDX9/build
+Test project /home/elieltavares/DEV/TOP2/TalesOfPirateDX9/build
+      Start  1: ui04d_state_and_input
+ 1/71 Test  #1: ui04d_state_and_input ..................................   Passed    0.00 sec
+      Start  2: ui04e_modal_regression
+ 2/71 Test  #2: ui04e_modal_regression .................................   Passed    0.01 sec
+      Start  3: ui04f_visual_commands
+ 3/71 Test  #3: ui04f_visual_commands ..................................   Passed    0.01 sec
+      Start  4: ui04g_procedural_regression
+ 4/71 Test  #4: ui04g_procedural_regression ............................   Passed    0.01 sec
+      Start  5: ui04h_layered_visibility
+ 5/71 Test  #5: ui04h_layered_visibility ...............................   Passed    0.01 sec
+      Start  6: ui04i_minimap_layout
+ 6/71 Test  #6: ui04i_minimap_layout ...................................   Passed    0.00 sec
+      Start  7: ui05b_offline_gameplay
+ 7/71 Test  #7: ui05b_offline_gameplay .................................   Passed    0.01 sec
+      Start  8: ui05c_inventory_expansion
+ 8/71 Test  #8: ui05c_inventory_expansion ..............................   Passed    0.01 sec
+      Start  9: ui05d_weapon_pose_modes
+ 9/71 Test  #9: ui05d_weapon_pose_modes ................................   Passed    0.01 sec
+      Start 10: ui05e_historical_action_poses
+10/71 Test #10: ui05e_historical_action_poses ..........................   Passed    0.00 sec
+      Start 11: ui05f_effect_timeline
+11/71 Test #11: ui05f_effect_timeline ..................................   Passed    0.01 sec
+      Start 12: ui05g_historical_effect_resources
+12/71 Test #12: ui05g_historical_effect_resources ......................   Passed    0.07 sec
+      Start 13: ui05h_particle_keyframes
+13/71 Test #13: ui05h_particle_keyframes ...............................   Passed    0.01 sec
+      Start 14: ui05i_eff_keyframes_and_billboards
+14/71 Test #14: ui05i_eff_keyframes_and_billboards .....................   Passed    0.00 sec
+      Start 15: ui05j_uv_atlas_and_texture_frames
+15/71 Test #15: ui05j_uv_atlas_and_texture_frames ......................   Passed    0.01 sec
+      Start 16: ui05k_native_effect_primitives
+16/71 Test #16: ui05k_native_effect_primitives .........................   Passed    0.00 sec
+      Start 17: ui05l_external_effect_lgo
+17/71 Test #17: ui05l_external_effect_lgo ..............................   Passed    0.00 sec
+      Start 18: ui05m_monster_ai_and_combat_range
+18/71 Test #18: ui05m_monster_ai_and_combat_range ......................   Passed    0.00 sec
+      Start 19: ui05n_monster_pathfinding
+19/71 Test #19: ui05n_monster_pathfinding ..............................   Passed    0.00 sec
+      Start 20: ui05o_monster_action_binding
+20/71 Test #20: ui05o_monster_action_binding ...........................   Passed    0.03 sec
+      Start 21: ui05p_monster_target_memory_and_retreat
+21/71 Test #21: ui05p_monster_target_memory_and_retreat ................   Passed    0.00 sec
+      Start 22: ui05q_monster_offensive_skills
+22/71 Test #22: ui05q_monster_offensive_skills .........................   Passed    0.00 sec
+      Start 23: ui05r_historical_map_spawns
+23/71 Test #23: ui05r_historical_map_spawns ............................   Passed    0.01 sec
+      Start 24: ui05s_lua_scripted_map_spawns
+24/71 Test #24: ui05s_lua_scripted_map_spawns ..........................   Passed    0.01 sec
+      Start 25: ui05t_persistent_lua_respawn
+25/71 Test #25: ui05t_persistent_lua_respawn ...........................   Passed    0.01 sec
+      Start 26: ui05u_historical_stats_experience
+26/71 Test #26: ui05u_historical_stats_experience ......................   Passed    0.02 sec
+      Start 27: ui05v_critical_resistance
+27/71 Test #27: ui05v_critical_resistance ..............................   Passed    0.00 sec
+      Start 28: ui05v_play_state_regression
+28/71 Test #28: ui05v_play_state_regression ............................   Passed    0.10 sec
+      Start 29: ui05w_equipment_primary_and_derived_stats
+29/71 Test #29: ui05w_equipment_primary_and_derived_stats ..............   Passed    0.05 sec
+      Start 30: ui05w1_screen_ray_selection
+30/71 Test #30: ui05w1_screen_ray_selection ............................   Passed    0.00 sec
+      Start 31: ui05w2_classic_camera_drag_and_confirm
+31/71 Test #31: ui05w2_classic_camera_drag_and_confirm .................   Passed    0.00 sec
+      Start 32: ui05x_attack_speed_camera_selection_performance
+32/71 Test #32: ui05x_attack_speed_camera_selection_performance ........   Passed    0.00 sec
+      Start 33: ui05x1_terrain_streaming_regression
+33/71 Test #33: ui05x1_terrain_streaming_regression ....................   Passed    0.00 sec
+      Start 34: ui05x2_gpu_cache_and_terrain_lifecycle
+34/71 Test #34: ui05x2_gpu_cache_and_terrain_lifecycle .................   Passed    0.00 sec
+      Start 35: ui05x3_static_animated_scene_equivalence
+35/71 Test #35: ui05x3_static_animated_scene_equivalence ...............   Passed    0.00 sec
+      Start 36: ui05x4_actor_skinning_vertex_cache
+36/71 Test #36: ui05x4_actor_skinning_vertex_cache .....................   Passed    0.00 sec
+      Start 37: ui05x5_actor_gpu_batch_cache
+37/71 Test #37: ui05x5_actor_gpu_batch_cache ...........................   Passed    0.00 sec
+      Start 38: ui05x6_actor_frustum_and_clip_planes
+38/71 Test #38: ui05x6_actor_frustum_and_clip_planes ...................   Passed    0.00 sec
+      Start 39: ui05y_item_instance_persistence
+39/71 Test #39: ui05y_item_instance_persistence ........................   Passed    0.00 sec
+      Start 40: ui05z_gem_forge_rules_and_persistence
+40/71 Test #40: ui05z_gem_forge_rules_and_persistence ..................   Passed    0.01 sec
+      Start 41: ui05aa_historical_socket_fusion
+41/71 Test #41: ui05aa_historical_socket_fusion ........................   Passed    0.00 sec
+      Start 42: ui05ab_inventory_item_tooltip_and_uid
+42/71 Test #42: ui05ab_inventory_item_tooltip_and_uid ..................   Passed    0.00 sec
+      Start 43: ui05ac_forge_workbench_uid_and_preview
+43/71 Test #43: ui05ac_forge_workbench_uid_and_preview .................   Passed    0.00 sec
+      Start 44: ui05ad_historical_npc_forge_service_binding
+44/71 Test #44: ui05ad_historical_npc_forge_service_binding ............   Passed    0.07 sec
+      Start 45: ui05ae_npc_lua_tokenizer_and_forge_service_isolation
+45/71 Test #45: ui05ae_npc_lua_tokenizer_and_forge_service_isolation ...   Passed    0.00 sec
+      Start 46: ui05af_assets_diagnostics
+46/71 Test #46: ui05af_assets_diagnostics ..............................   Passed    0.01 sec
+      Start 47: ui05ag_historical_case_paths
+47/71 Test #47: ui05ag_historical_case_paths ...........................   Passed    0.01 sec
+      Start 48: ui05ah_scene_usage_vs_catalog
+48/71 Test #48: ui05ah_scene_usage_vs_catalog ..........................   Passed    0.01 sec
+      Start 49: ui05ai_scene_missing_impact
+49/71 Test #49: ui05ai_scene_missing_impact ............................   Passed    0.01 sec
+      Start 50: ui05aj_npc_menus_and_eligible_missions
+50/71 Test #50: ui05aj_npc_menus_and_eligible_missions .................   Passed    0.09 sec
+      Start 51: ui05ak_classic_quest_ui
+51/71 Test #51: ui05ak_classic_quest_ui ................................   Passed    0.00 sec
+      Start 52: ui05ak1_cached_mission_index_and_reload
+52/71 Test #52: ui05ak1_cached_mission_index_and_reload ................   Passed    0.01 sec
+      Start 53: ui05ak2_startup_timing_csv
+53/71 Test #53: ui05ak2_startup_timing_csv .............................   Passed    0.01 sec
+      Start 54: ui05ak3_single_pass_npc_lua_catalog
+54/71 Test #54: ui05ak3_single_pass_npc_lua_catalog ....................   Passed    0.00 sec
+      Start 55: ui05al_parallel_quest_diary
+55/71 Test #55: ui05al_parallel_quest_diary ............................   Passed    0.00 sec
+      Start 56: ui05am_mission_prerequisites_and_job
+56/71 Test #56: ui05am_mission_prerequisites_and_job ...................   Passed    0.00 sec
+      Start 57: ui05ao_map_quest_discovery_layout
+57/71 Test #57: ui05ao_map_quest_discovery_layout ......................   Passed    0.00 sec
+      Start 58: ui05ap_historical_npc_turn_in
+58/71 Test #58: ui05ap_historical_npc_turn_in ..........................   Passed    0.04 sec
+      Start 59: ui05aq_mission_scoped_flags
+59/71 Test #59: ui05aq_mission_scoped_flags ............................   Passed    0.04 sec
+      Start 60: ui05ar_historical_cross_npc_step
+60/71 Test #60: ui05ar_historical_cross_npc_step .......................   Passed    0.08 sec
+      Start 61: ui05as_explicit_quest_completion_ui
+61/71 Test #61: ui05as_explicit_quest_completion_ui ....................   Passed    0.00 sec
+      Start 62: ui05at_decoupled_quest_dialog
+62/71 Test #62: ui05at_decoupled_quest_dialog ..........................   Passed    0.00 sec
+      Start 63: ui05at_independent_mission_catalog
+63/71 Test #63: ui05at_independent_mission_catalog .....................   Passed    0.07 sec
+      Start 64: ui05au_historical_event_triggers
+64/71 Test #64: ui05au_historical_event_triggers .......................   Passed    0.04 sec
+      Start 65: ui05av_modular_mission_journal
+65/71 Test #65: ui05av_modular_mission_journal .........................   Passed    0.00 sec
+      Start 66: ui05aw_modular_item_use_rules
+66/71 Test #66: ui05aw_modular_item_use_rules ..........................   Passed    0.00 sec
+      Start 67: ui05ax_historical_deterministic_chests
+67/71 Test #67: ui05ax_historical_deterministic_chests .................   Passed    0.00 sec
+      Start 68: ui05ay_historical_tickets_and_armor_chests
+68/71 Test #68: ui05ay_historical_tickets_and_armor_chests .............   Passed    0.00 sec
+      Start 69: ui05az_newbie_chests_and_restrictions
+69/71 Test #69: ui05az_newbie_chests_and_restrictions ..................   Passed    0.00 sec
+      Start 70: ui05ba_item_instantiation_contract
+70/71 Test #70: ui05ba_item_instantiation_contract .....................   Passed    0.00 sec
+      Start 71: ui05bb_offline_character_catalog
+71/71 Test #71: ui05bb_offline_character_catalog .......................   Passed    0.00 sec
+
+100% tests passed, 0 tests failed out of 71
+
+Total Test time (real) =   0.99 sec

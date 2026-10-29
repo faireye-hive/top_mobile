@@ -1,0 +1,28 @@
+top_gl offline - migracao 05-BA (instancias de itens e UI de teleporte)
+catalogo offline 52 mapas historicos validos
+mapa Client/map/garner.map 4096x4096  jogador 2218.5, 2776.5  altura 0.60  tex 4
+areas 255  setor 1 Argent City  ambiente 0.45,0.58,0.61  luz 1.00,1.00,1.00
+texturas 49 ok, 0 falhas, atlas 256x256
+agua animada 30/30 quadros historicos
+caminhada grade 50cm  1 curvas
+caminhada com colisao estatica da cena  1 curvas
+cena objetos 1175  animados 60/104  uv 10  opacidade 0  imagens 0  sombras 29  movimento 1  modelos falhos 0  triangulos 102479  sem material 0  texturas 105 ok, 0 falhas, 0 ausentes
+minimapa garner 2832 tiles
+atores 32  pecas 37  pecas falhas 0  ossos 872  triangulos 25137  sem textura 0  sombras 32  anima 1  arma z 1.01  corpo z -0.00..2.68  tex 33 ok, 0 falhas, 0 ausentes
+poses monstros 31 bancos validos, 14 Action IDs remapeados, 0 fallbacks, 0 sem pose
+cursor 20 arquivos, 66 quadros, normal 226 opacos, icon 32 px
+texturas icon 4188, ui 1621, efeito 1221, item 760, foto 743, minimapa 111, bigmap 12, lit 32, skill 1
+efeito hpushf04.eff  refs 2  particulas 2 arquivos/8 sistemas  textura Client/texture/effect/hpush01.tga.png
+skills visuais historicas 411 registros (IDs de efeito, fallback OpenGL)
+efeitos magicsingle 53 registros  carregamento sob demanda (fallback para arquivos ausentes)
+efeitos de cena 1093 registros (sceneffectinfo: conjuracao/impacto)
+audio historico ok  musica OGG e efeitos WAV
+combate teste ok  monstros 12
+nascimentos garner 160 regioes ChaSpn, 144 Lua (8 scripts), 12 monstros locais
+regiao de monstros mais proxima #9 Argent 3, 56 m
+portais garner 3
+npcs garner 153
+lojas garner 18  catalogo 359 itens
+dialogos garner 150
+missao 701 Blacksmith's Greetings  alvo 2193,2706  exp 9
+missao 631 The Slowpoke Snails  monstro 127 x10  nivel 35  exp 6100 ouro 461

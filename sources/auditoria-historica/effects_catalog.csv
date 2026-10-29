@@ -1,0 +1,289 @@
+path,format,resource_exists,version,declared_subeffects,interpretation,subeffect_summary,evidence
+Client/effect/01000004.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01000007.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01000009.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01000010.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01000011.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01000012.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01000013.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01000014.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01000015.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01000016.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01000018.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01000019.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01000020.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01000028.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01000029.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01000030.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01000032.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01000033(a).par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01000033.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01010002.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01010003.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01010505.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01010506.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01010507.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01010508.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01010510.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01010511.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01010513.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01010514.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01020005.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01020006.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01020007.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01020008.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01020009.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01020010.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01020011.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01020012.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01020013(a).par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01020013(b).par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01020013.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01020014.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01020015.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01020016.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01020020.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01020021.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01020022.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01020028.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01020032.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01020035.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01020036.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01020038.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01020040.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01020044.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01030001.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01030006.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01030008.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01040002.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01040004.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01040005.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01040006.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01040008.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01040024.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01050013.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01050021.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01050038.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01050039.eff,eff,present,7,,full,new effect|4|2|eff0297|RectPlane|1; new effect|4|2|eff0297|RectPlane|1,top_eff_inspect
+Client/effect/01050041.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01050042.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01050045.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01060006.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/01060008.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/04000002.eff,eff,present,4,,full,04000002.eff|4|3|eff0143|RectPlane|0; new effect|4|3|eff0143|RectPlane|0,top_eff_inspect
+Client/effect/04000003.eff,eff,present,4,,full,04000003.eff|4|3|kisol_05|Rect|0; new effect|4|3|kisol_05|Rect|0,top_eff_inspect
+Client/effect/04000004(0).eff,eff,present,4,,full,04000004(0).eff|3|3|eff0148|RectPlane|1; 04000004(0).eff|3|3|eff0148|RectPlane|1,top_eff_inspect
+Client/effect/04000004.eff,eff,present,4,,full,04000004.eff|3|3|eff0148|RectPlane|1; 04000004.eff|4|3|eff0169|RectPlane|1,top_eff_inspect
+Client/effect/04000005(0).eff,eff,present,4,,full,new effect|3|3|eff0023|RectPlane|1,top_eff_inspect
+Client/effect/04000005.eff,eff,present,4,,full,04000005.eff|4|3|eff0070|dirk.lgo|0; 04000005.eff|4|3|eff0070|dirk.lgo|0,top_eff_inspect
+Client/effect/04000007.eff,eff,present,4,,full,04000007.eff|4|3|eff0129|RectPlane|1; new effect|4|3|eff0166|RectPlane|1,top_eff_inspect
+Client/effect/04000008.eff,eff,present,7,,full,04000008.eff|4|4|eff0143|Rect|0; new effect|4|4|eff0143|Rect|0,top_eff_inspect
+Client/effect/04000008.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/04000009.eff,eff,present,5,,full,04000009.eff|4|3|eff0009|RectPlane|0,top_eff_inspect
+Client/effect/04000010.eff,eff,present,7,,full,04000010.eff|4|4|eff0262|Rect|0; new effect|4|4|eff0262|Rect|0,top_eff_inspect
+Client/effect/04000010.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/04000011.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/04000307.eff,eff,present,4,,full,04000307.eff|3|3|eff0134|Rect|0; new effect|3|3|eff0134|Rect|0,top_eff_inspect
+Client/effect/04000308.eff,eff,present,4,,full,04000308.eff|3|6|eff0134|Rect|0; new effect|3|6|eff0134|Rect|0; new effect|3|6|eff0134|Rect|0,top_eff_inspect
+Client/effect/04000310.eff,eff,present,6,,full,04000310.eff|4|3|ice1|ice.lgo|0,top_eff_inspect
+Client/effect/04000312.eff,eff,present,6,,full,04000312.eff|3|3|eff0188|Rect|0; new effect|3|3|eff0188|Rect|0,top_eff_inspect
+Client/effect/04000314.eff,eff,present,6,,full,bamboo.eff|4|3|eff0213|bamboo.lgo|0,top_eff_inspect
+Client/effect/04000315.eff,eff,present,6,,full,04000315.eff|3|3|eff0019|RectPlane|0; new effect|3|3|eff0019|RectPlane|0,top_eff_inspect
+Client/effect/04000316.eff,eff,present,6,,full,04000316(a).eff|3|3|eff0152|RectPlane|1,top_eff_inspect
+Client/effect/04000317.eff,eff,present,6,,full,04000317.eff|4|3|eff0227|RectPlane|1,top_eff_inspect
+Client/effect/04000318.eff,eff,present,6,,full,04000318.eff|4|3|eff0189|Rect|0; new effect|4|3|eff0189|RectPlane|0,top_eff_inspect
+Client/effect/04000319.eff,eff,present,7,,full,04000319.eff|4|3|eff0269|RectPlane|0; new effect|4|3|eff0269|RectPlane|0; new effect|4|3|eff0269|RectPlane|0,top_eff_inspect
+Client/effect/04000320(a).eff,eff,present,7,,full,04000320.eff|4|5|eff0226|RectPlane|1,top_eff_inspect
+Client/effect/04000321.eff,eff,present,7,,full,04000321.eff|3|3|eff0148|RectPlane|1; 04000004.eff|4|3|eff0169|RectPlane|1,top_eff_inspect
+Client/effect/04000322.eff,eff,present,7,,full,new effect|4|1|eff0225|mud.lgo|0,top_eff_inspect
+Client/effect/04000324.eff,eff,present,7,,full,04000324.eff|4|3|eff0271|rocket.lgo|0,top_eff_inspect
+Client/effect/04000325.eff,eff,present,7,,full,04000325.eff|4|3|eff0272|arrow.lgo|0,top_eff_inspect
+Client/effect/abysm01.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/abysm02.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/abysm03.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/agle.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/aglef.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/angel.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/angel1.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/arrow.eff,eff,present,2,,full,arrow.eff|4|3|arrow.tga|Rect|0; new effect|4|3|arrow.tga|Rect|0,top_eff_inspect
+Client/effect/bang.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/bang02.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/barrierf.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/barrieri.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/barriert.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/bdiceaa.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/bdicess.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/bdlightaa.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/bdlightfp.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/bdlighting1.eff,eff,present,7,,full,bdlighting1.eff|3|1|bdlighting|Rect|0; lt2|3|1|bdlighting|RectPlane|0; lt3|3|1|bdlightingf|Rect|0,top_eff_inspect
+Client/effect/bdlighting3.eff,eff,present,7,,full,bdlighting3.eff|3|1|eff0281|Rect|0; bdl2|3|1|eff0281|Rect|0; bdl3|3|1|eff0281|RectPlane|0,top_eff_inspect
+Client/effect/bdlightss.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/bdsummon.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/bdwindaa.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/bdwindf1.eff,eff,present,7,,full,bdwindf1.eff|4|3|bdwindf1|RectPlane|0; bdwindf2|4|3|eff0142|RectPlane|0; bdwindf1|4|3|bdwindf1|RectPlane|0; bdwindf2|4|3|eff0142|RectPlane|0,top_eff_inspect
+Client/effect/bdwindf4.eff,eff,present,7,,full,bdwindf4.eff|4|3|bdwindf2|RectPlane|0; ddd|4|3|bdwindf2|RectPlane|0,top_eff_inspect
+Client/effect/bdwindfp.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/bdwindss.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/bhsd.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/bloods.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/bsj.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/bwsf.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/bwsj.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/cannon01.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/cannon02.eff,eff,present,7,,full,cannon02.eff|4|3|cannon01|sphere.lgo|0,top_eff_inspect
+Client/effect/cannon02.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/cannon03.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/cannon04.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/cfsf.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/cfsj.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/corpse.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/corpse2.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/cowdust.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/cowfire.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/cowtarget.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/critical.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/cxsw1.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/cxsw2.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/dancef.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/dancet.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/darrow.eff,eff,present,7,,full,darrow.eff|4|3|arrow|Rect|0; new effect|4|3|arrow|Rect|0,top_eff_inspect
+Client/effect/dzmz.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/dzsf.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/eddy.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/eddyhurt.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/fallstar01.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/fallstar02.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/fbellowss.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/fbloodaa.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/fbloodss.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/fblowupaa.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/fboness.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/fboomerff.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/fcansmoke2.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/fdeathaa.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/feye.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/fflashss.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/fgunaa.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/fguns1.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/fireghostt.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/firegush.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/firelighting01.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/firelighting02.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/fjestss.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/flaseraa.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/flaserss.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/fmoonss.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/fog.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/foghurt.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/foot.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/foot02.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/frsf.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/frsfb.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/frsj.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/fshocka1.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/fslashss.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/fspireaa.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/fsummon.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/fwateraa.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/hamhamha.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/hdrmf.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/hdzhan.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/hide01.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/hld.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/hpushf.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/hpushf02.eff,eff,present,6,,full,hpushf02.eff|4|4|hpush01|RectPlane|1,top_eff_inspect
+Client/effect/hpushf03.eff,eff,present,6,,full,hpushf02.eff|4|4|hpush01|RectPlane|1,top_eff_inspect
+Client/effect/hpushf04.eff,eff,present,6,,full,hpushf02.eff|4|4|hpush01|RectPlane|1,top_eff_inspect
+Client/effect/hpusht.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/hxhl.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/hxmffx.eff,eff,present,7,,full,zzgq.eff|3|3|eff0237|RectPlane|1; 04000004.eff|4|3|hpush01|RectPlane|1,top_eff_inspect
+Client/effect/hxsf.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/hymf.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/hymffx.eff,eff,present,7,,full,hl2.eff|3|3|hymffx2|RectPlane|1,top_eff_inspect
+Client/effect/icearrow.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/icearrowf(a).eff,eff,present,7,,full,icearrowf(a).eff|4|3|eff0314|Cylinder|0; icearrowf(a).eff|4|3|eff0314|Cylinder|0,top_eff_inspect
+Client/effect/icearrowf.eff,eff,present,7,,full,icearrowf.eff|4|4|eff0097|icearrow.lgo|0,top_eff_inspect
+Client/effect/icearrowf.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/icearrowh.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/icedragonhit01.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/icedragonhit02.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/icedragonready01.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/icedragonready02.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/iron.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/kj.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/levin.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/levinc.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/levinh.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/lx.eff,eff,present,7,,full,hymffx.eff|3|3|hh1|RectPlane|1,top_eff_inspect
+Client/effect/lx.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/lx2.eff,eff,present,7,,full,04000004(0).eff|3|3|eff0148|RectPlane|1; 04000004(0).eff|3|3|eff0148|RectPlane|1,top_eff_inspect
+Client/effect/ly.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/mfbdb.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/mh.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/mosterlight.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/nbjz.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/obey.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/obeyhurt.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/parrow.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/parrowf.eff,eff,present,7,,full,parrowf.eff|4|2|eff0315|parrow.lgo|0; parrowf.eff|4|3|eff0315|RectPlane|0; parrowf.eff|4|3|eff0315|RectPlane|0; new effect|4|3|eff0315|RectPlane|0; new effect|4|3|eff0315|RectPlane|0,top_eff_inspect
+Client/effect/parrowh.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/poisonf.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/poisonfly.eff,eff,present,6,,full,new effect|4|3|poison01|RectPlane|0; new effect|4|3|poison02|RectPlane|0; new effect|4|3|poison03|RectPlane|0,top_eff_inspect
+Client/effect/poisont.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/pxsf.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/qzmf.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/ragefire.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/rouse.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/runatktarget.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/runningattack.eff,eff,present,5,,full,runningattack.eff|4|3|runningattack|RectPlane|0; runningattack.eff|4|3|runningattack|RectPlane|0,top_eff_inspect
+Client/effect/runningattack2.eff,eff,present,5,,full,runningattack2.eff|4|3|runningattack|RectPlane|0; runningattack.eff|4|3|runningattack|RectPlane|0,top_eff_inspect
+Client/effect/runningattack3.eff,eff,present,5,,full,runningattack3.eff|4|3|runningattack|RectPlane|0; runningattack.eff|4|3|runningattack|RectPlane|0,top_eff_inspect
+Client/effect/sd.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/seal.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/sgbjg.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/sgfire.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/sgfiremz.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/shadow01.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/shadowf01.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/shadowi.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/shensheng.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/shield.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/shieldh.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/shuihua01.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/shzhan.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/slbz.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/snball.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/spa.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/spaf.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/spahurt.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/spire01.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/spurtice.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/steel.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/stone.eff,eff,present,5,,full,new effect|4|3|eff0216|stone.lgo|0,top_eff_inspect
+Client/effect/stoneshieldi.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/stoneshieldt.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/strhurt.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/strik.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/swordlight02.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/tiger.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/toil.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/tt.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/whurt.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/wind.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/wolf.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/wyzhan.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/ximota.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/xn.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/xnfxa.eff,eff,present,7,,full,xnfxa.eff|4|2|blooda|RectPlane|0; sss|4|2|blooda|RectPlane|0,top_eff_inspect
+Client/effect/xnfxb.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/xnjz.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/xzsb1.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/xzsb2.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/yfire.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/zzfbfa.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/zzfbfat.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/zzfbfp.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/zzfbfs.par,par,present,,,file/header only; no standalone per-file decode,,EffectSystem.cpp:loadParticles
+Client/effect/zzfireball.eff,eff,present,7,,full,zzfireball.eff|3|3|zzfireball2|RectPlane|1; zzfireballun.eff|3|3|zzfireball|RectPlane|0; zzzzzz1|3|3|zzfireball|RectPlane|0; zzzzzz1|3|3|zzfireball|RectPlane|0; zzzzzz1|3|3|zzfireball|RectPlane|0,top_eff_inspect
+Client/effect/zzgq.eff,eff,present,7,,full,04000321.eff|3|3|firelighting04|RectPlane|1; 04000004.eff|4|3|eff0169|RectPlane|1,top_eff_inspect
+Client/effect/icearrowh.eff,eff,present,7,6,full,6 parts: type 4; texture=ice1 (Client/texture/effect/Ice1.TGA.png via manifest); model=ice.lgo (Client/model/effect/ice.lgo); billboard=0; keys=4 each,top_eff_inspect available

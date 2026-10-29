@@ -1,0 +1,7 @@
+# 05-BL — dano de skills ofensivas dos monstros
+
+O cliente já escolhia skills inimigas por `characterinfo.Skill ID/Rate`, alcance e projétil, mas resolvia todo impacto com o dano de ataque básico. Isso ignorava callbacks com multiplicadores explícitos. A conferência do `skillinfo.txt` contra `skilleffect.lua` confirmou, entre outros, Lair (236: `3 * Atk_Dmg`), Colossus Smash (238: `20 * Atk_Dmg`), Tempest Blade (240: `2 * Atk_Dmg`), Squid Whirlstrike (247: `3 * Atk_Dmg`), Whirling Hook (266: `Atk_Dmg`), Icy Dragon Strike (269: `1.5 * Atk_Dmg`) e Black Dragon Breath (278: `1.5 * Atk_Dmg`).
+
+Esses callbacks agora são classificados pelo nome exato, e o impacto usa o multiplicador linear após a regra `Atk_Dmg` de nível/resistência/defesa. Skills básicas de melee/range preservam o teste de acerto/crítico declarado nos callbacks; skills resolvidas diretamente via `Hp_Endure_Dmg` não recebem artificialmente o mesmo teste. Colossus Smash é exercitada em combate offline contra um atacante sintético, além dos testes dos multiplicadores e dos IDs históricos.
+
+Limite: esta etapa não porta os estados laterais dos callbacks (por exemplo, veneno/remoção de estados), callbacks de dano ainda não classificados ou efeitos de equipamento especial. O nível de skill dos monstros não existe em `characterinfo.Skill Rate`; para os multiplicadores classificados que não usam `sklv`, essa ausência não altera o cálculo. Validação: build `top_gl`, `top_gl --check`, CTest e `git diff --check`.

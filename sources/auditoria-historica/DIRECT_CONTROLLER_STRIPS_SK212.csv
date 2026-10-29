@@ -1,0 +1,7 @@
+file,index,max_length,dummy_a,dummy_b,life,step,texture,src_blend,dst_blend,implementation
+effect/01000012.par,0,80,1,2,0.20000000298023224,0.05000000074505806,eff0146,5,2,not_rendered
+effect/01030010.par,0,100,0,1,0.5,0.029999999329447746,eff0114.tga,5,2,not_rendered
+effect/mosterlight.par,0,100,9,15,0.5,0.029999999329447746,swordlight02,5,2,not_rendered
+effect/swordlight02.par,0,100,0,1,0.5,0.029999999329447746,swordlight02,5,2,not_rendered
+effect/xzsb1.par,0,100,3,6,0.5,0.029999999329447746,swordlight02,5,2,not_rendered
+effect/xzsb2.par,0,100,3,6,0.5,0.029999999329447746,swordlight02,5,2,not_rendered

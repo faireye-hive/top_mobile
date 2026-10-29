@@ -1,0 +1,584 @@
+-- Configuring done (0.0s)
+-- Generating done (0.1s)
+-- Build files have been written to: /tmp/top-gl-audit-20261023
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/Engine/src/item/ItemUseRules.cpp' has modification time 6038 s in the future
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/Tools/asset_audit.cpp' has modification time 96 s in the future
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/Engine/ui/UIRenderer.cpp' has modification time 96 s in the future
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI04DTests.cpp' has modification time 96 s in the future
+[  2%] Building CXX object CMakeFiles/top_item.dir/Engine/src/item/ItemUseRules.cpp.o
+[  2%] Building CXX object CMakeFiles/top_asset_audit.dir/Tools/asset_audit.cpp.o
+[  2%] Building CXX object CMakeFiles/top_ui.dir/Engine/ui/UIRenderer.cpp.o
+[  2%] Building CXX object CMakeFiles/top_ui04d_tests.dir/tests/UI04DTests.cpp.o
+[  2%] Building CXX object CMakeFiles/top_asset_audit.dir/Engine/src/top/AssetAudit.cpp.o
+[  2%] Building CXX object CMakeFiles/top_item.dir/Engine/src/item/ItemChestRules.cpp.o
+[  2%] Building CXX object CMakeFiles/top_ui.dir/Engine/ui/HudComposer.cpp.o
+[  2%] Building CXX object CMakeFiles/top_item.dir/Engine/src/item/ItemTicketRules.cpp.o
+[  3%] Building CXX object CMakeFiles/top_ui04d_tests.dir/Engine/ui/UIManager.cpp.o
+[  3%] Building CXX object CMakeFiles/top_ui.dir/Engine/ui/UIManager.cpp.o
+[  3%] Building CXX object CMakeFiles/top_item.dir/Engine/src/item/ItemNewbieChestRules.cpp.o
+[  3%] Building CXX object CMakeFiles/top_ui04d_tests.dir/Engine/ui/UIRenderer.cpp.o
+[  4%] Linking CXX static library libtop_item.a
+[  4%] Building CXX object CMakeFiles/top_ui.dir/Engine/ui/screens/ForgeWorkbenchUI.cpp.o
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[  4%] Built target top_item
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI04ETests.cpp' has modification time 95 s in the future
+[  4%] Building CXX object CMakeFiles/top_ui04d_tests.dir/Engine/ui/screens/InventoryUI.cpp.o
+[  4%] Building CXX object CMakeFiles/top_ui04e_tests.dir/tests/UI04ETests.cpp.o
+[  5%] Building CXX object CMakeFiles/top_ui.dir/Engine/ui/screens/MinimapUI.cpp.o
+[  5%] Building CXX object CMakeFiles/top_ui04e_tests.dir/Engine/ui/UIRenderer.cpp.o
+[  5%] Building CXX object CMakeFiles/top_asset_audit.dir/Engine/src/top/MapFile.cpp.o
+[  5%] Building CXX object CMakeFiles/top_ui.dir/Engine/ui/screens/GameHUD.cpp.o
+[  5%] Building CXX object CMakeFiles/top_ui04d_tests.dir/Engine/ui/screens/SkillsUI.cpp.o
+[  6%] Building CXX object CMakeFiles/top_ui04e_tests.dir/Engine/ui/UIManager.cpp.o
+[  6%] Building CXX object CMakeFiles/top_ui.dir/Engine/ui/screens/CharacterStatusUI.cpp.o
+[  7%] Linking CXX executable top_asset_audit
+[  7%] Building CXX object CMakeFiles/top_ui04e_tests.dir/Engine/ui/screens/InventoryUI.cpp.o
+[  8%] Linking CXX executable top_ui04d_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[  8%] Built target top_asset_audit
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI04FTests.cpp' has modification time 94 s in the future
+[  8%] Building CXX object CMakeFiles/top_ui04f_tests.dir/tests/UI04FTests.cpp.o
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[  8%] Built target top_ui04d_tests
+[  8%] Building CXX object CMakeFiles/top_ui04f_tests.dir/Engine/ui/UIManager.cpp.o
+[  9%] Building CXX object CMakeFiles/top_ui.dir/Engine/ui/screens/QuestUI.cpp.o
+[ 10%] Building CXX object CMakeFiles/top_ui04f_tests.dir/Engine/ui/UIRenderer.cpp.o
+[ 10%] Building CXX object CMakeFiles/top_ui04e_tests.dir/Engine/ui/screens/SkillsUI.cpp.o
+[ 10%] Building CXX object CMakeFiles/top_ui.dir/Engine/ui/screens/SkillsUI.cpp.o
+[ 10%] Building CXX object CMakeFiles/top_ui04f_tests.dir/Engine/ui/screens/InventoryUI.cpp.o
+[ 10%] Building CXX object CMakeFiles/top_ui04f_tests.dir/Engine/ui/screens/SkillsUI.cpp.o
+[ 10%] Building CXX object CMakeFiles/top_ui04e_tests.dir/Engine/ui/screens/NpcDialogUI.cpp.o
+[ 10%] Building CXX object CMakeFiles/top_ui.dir/Engine/ui/screens/InventoryUI.cpp.o
+[ 11%] Building CXX object CMakeFiles/top_ui04f_tests.dir/Engine/ui/screens/ShopUI.cpp.o
+[ 11%] Building CXX object CMakeFiles/top_ui04f_tests.dir/Engine/ui/screens/NpcDialogUI.cpp.o
+[ 12%] Building CXX object CMakeFiles/top_ui04e_tests.dir/Engine/ui/screens/ShopUI.cpp.o
+[ 12%] Building CXX object CMakeFiles/top_ui.dir/Engine/ui/screens/NpcDialogUI.cpp.o
+[ 12%] Building CXX object CMakeFiles/top_ui04f_tests.dir/Engine/ui/screens/BoatUI.cpp.o
+[ 12%] Building CXX object CMakeFiles/top_ui04e_tests.dir/Engine/ui/screens/BoatUI.cpp.o
+[ 13%] Building CXX object CMakeFiles/top_ui.dir/Engine/ui/screens/ShopUI.cpp.o
+[ 13%] Building CXX object CMakeFiles/top_ui04f_tests.dir/Engine/ui/screens/CharacterSelectUI.cpp.o
+[ 13%] Building CXX object CMakeFiles/top_ui.dir/Engine/ui/screens/BoatUI.cpp.o
+[ 13%] Building CXX object CMakeFiles/top_ui04e_tests.dir/Engine/ui/screens/SystemUI.cpp.o
+[ 13%] Building CXX object CMakeFiles/top_ui.dir/Engine/ui/screens/SystemUI.cpp.o
+[ 14%] Building CXX object CMakeFiles/top_ui04f_tests.dir/Engine/ui/screens/SystemUI.cpp.o
+[ 14%] Building CXX object CMakeFiles/top_ui04f_tests.dir/Engine/ui/screens/QuestUI.cpp.o
+[ 15%] Building CXX object CMakeFiles/top_ui04e_tests.dir/Engine/ui/screens/CharacterSelectUI.cpp.o
+[ 16%] Building CXX object CMakeFiles/top_ui.dir/Engine/ui/screens/CharacterSelectUI.cpp.o
+[ 16%] Building CXX object CMakeFiles/top_ui04f_tests.dir/Engine/ui/screens/CharacterStatusUI.cpp.o
+[ 17%] Building CXX object CMakeFiles/top_ui04f_tests.dir/Engine/ui/screens/MinimapUI.cpp.o
+[ 17%] Linking CXX executable top_ui04e_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 17%] Building CXX object CMakeFiles/top_ui.dir/Engine/ui/screens/ShortcutBarUI.cpp.o
+[ 17%] Built target top_ui04e_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI04GTests.cpp' has modification time 92 s in the future
+[ 18%] Building CXX object CMakeFiles/top_ui04g_tests.dir/tests/UI04GTests.cpp.o
+[ 18%] Building CXX object CMakeFiles/top_ui04f_tests.dir/Engine/ui/screens/GameHUD.cpp.o
+[ 18%] Linking CXX static library libtop_ui.a
+[ 18%] Building CXX object CMakeFiles/top_ui04f_tests.dir/Engine/ui/screens/ShortcutBarUI.cpp.o
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 18%] Built target top_ui
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI04HTests.cpp' has modification time 91 s in the future
+[ 18%] Building CXX object CMakeFiles/top_ui04h_tests.dir/tests/UI04HTests.cpp.o
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI04ITests.cpp' has modification time 91 s in the future
+[ 18%] Building CXX object CMakeFiles/top_ui04i_tests.dir/tests/UI04ITests.cpp.o
+[ 18%] Linking CXX executable top_ui04f_tests
+[ 18%] Building CXX object CMakeFiles/top_ui04g_tests.dir/Engine/ui/UIRenderer.cpp.o
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 18%] Built target top_ui04f_tests
+[ 18%] Building CXX object CMakeFiles/top_ui04g_tests.dir/Engine/ui/UIManager.cpp.o
+[ 18%] Building CXX object CMakeFiles/top_ui04i_tests.dir/Engine/ui/UIRenderer.cpp.o
+[ 18%] Building CXX object CMakeFiles/top_ui04g_tests.dir/Engine/ui/screens/InventoryUI.cpp.o
+[ 19%] Building CXX object CMakeFiles/top_ui04i_tests.dir/Engine/ui/screens/MinimapUI.cpp.o
+[ 20%] Building CXX object CMakeFiles/top_ui04g_tests.dir/Engine/ui/screens/SkillsUI.cpp.o
+[ 20%] Building CXX object CMakeFiles/top_ui04h_tests.dir/Engine/ui/HudComposer.cpp.o
+[ 20%] Linking CXX executable top_ui04i_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 20%] Built target top_ui04i_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05BTests.cpp' has modification time 90 s in the future
+[ 20%] Building CXX object CMakeFiles/top_ui05b_tests.dir/tests/UI05BTests.cpp.o
+[ 21%] Building CXX object CMakeFiles/top_ui04h_tests.dir/Engine/ui/UIRenderer.cpp.o
+[ 21%] Building CXX object CMakeFiles/top_ui04g_tests.dir/Engine/ui/screens/ShopUI.cpp.o
+[ 21%] Building CXX object CMakeFiles/top_ui04g_tests.dir/Engine/ui/screens/NpcDialogUI.cpp.o
+[ 21%] Building CXX object CMakeFiles/top_ui05b_tests.dir/Engine/ui/UIRenderer.cpp.o
+[ 21%] Building CXX object CMakeFiles/top_ui04h_tests.dir/Engine/ui/UIManager.cpp.o
+[ 22%] Building CXX object CMakeFiles/top_ui04g_tests.dir/Engine/ui/screens/BoatUI.cpp.o
+[ 22%] Building CXX object CMakeFiles/top_ui04g_tests.dir/Engine/ui/screens/SystemUI.cpp.o
+[ 22%] Building CXX object CMakeFiles/top_ui05b_tests.dir/Engine/ui/screens/NpcDialogUI.cpp.o
+[ 22%] Building CXX object CMakeFiles/top_ui04h_tests.dir/Engine/ui/screens/InventoryUI.cpp.o
+[ 22%] Building CXX object CMakeFiles/top_ui04g_tests.dir/Engine/ui/screens/CharacterSelectUI.cpp.o
+[ 22%] Building CXX object CMakeFiles/top_ui04g_tests.dir/Engine/ui/screens/CharacterStatusUI.cpp.o
+[ 23%] Linking CXX executable top_ui05b_tests
+[ 24%] Building CXX object CMakeFiles/top_ui04g_tests.dir/Engine/ui/screens/MinimapUI.cpp.o
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 24%] Built target top_ui05b_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05CTests.cpp' has modification time 89 s in the future
+[ 24%] Building CXX object CMakeFiles/top_ui05c_tests.dir/tests/UI05CTests.cpp.o
+[ 24%] Building CXX object CMakeFiles/top_ui04g_tests.dir/Engine/ui/screens/GameHUD.cpp.o
+[ 24%] Building CXX object CMakeFiles/top_ui04g_tests.dir/Engine/ui/screens/QuestUI.cpp.o
+[ 25%] Building CXX object CMakeFiles/top_ui04h_tests.dir/Engine/ui/screens/SkillsUI.cpp.o
+[ 26%] Building CXX object CMakeFiles/top_ui04g_tests.dir/Engine/ui/screens/ShortcutBarUI.cpp.o
+[ 26%] Building CXX object CMakeFiles/top_ui05c_tests.dir/Engine/ui/UIManager.cpp.o
+[ 26%] Building CXX object CMakeFiles/top_ui04h_tests.dir/Engine/ui/screens/ShopUI.cpp.o
+[ 26%] Linking CXX executable top_ui04g_tests
+[ 26%] Building CXX object CMakeFiles/top_ui04h_tests.dir/Engine/ui/screens/NpcDialogUI.cpp.o
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 26%] Building CXX object CMakeFiles/top_ui05c_tests.dir/Engine/ui/UIRenderer.cpp.o
+[ 26%] Built target top_ui04g_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05DTests.cpp' has modification time 89 s in the future
+[ 27%] Building CXX object CMakeFiles/top_ui05d_tests.dir/tests/UI05DTests.cpp.o
+[ 27%] Building CXX object CMakeFiles/top_ui04h_tests.dir/Engine/ui/screens/BoatUI.cpp.o
+[ 27%] Linking CXX executable top_ui05d_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 27%] Built target top_ui05d_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05ETests.cpp' has modification time 88 s in the future
+[ 27%] Building CXX object CMakeFiles/top_ui05e_tests.dir/tests/UI05ETests.cpp.o
+[ 28%] Building CXX object CMakeFiles/top_ui04h_tests.dir/Engine/ui/screens/SystemUI.cpp.o
+[ 29%] Building CXX object CMakeFiles/top_ui05c_tests.dir/Engine/ui/screens/InventoryUI.cpp.o
+[ 29%] Building CXX object CMakeFiles/top_ui04h_tests.dir/Engine/ui/screens/CharacterSelectUI.cpp.o
+[ 29%] Linking CXX executable top_ui05e_tests
+[ 29%] Building CXX object CMakeFiles/top_ui04h_tests.dir/Engine/ui/screens/CharacterStatusUI.cpp.o
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 29%] Built target top_ui05e_tests
+[ 29%] Building CXX object CMakeFiles/top_ui04h_tests.dir/Engine/src/top/Font.cpp.o
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05FTests.cpp' has modification time 88 s in the future
+[ 30%] Building CXX object CMakeFiles/top_ui05f_tests.dir/tests/UI05FTests.cpp.o
+[ 30%] Building CXX object CMakeFiles/top_ui05f_tests.dir/Engine/src/top/EffectSystem.cpp.o
+[ 30%] Building CXX object CMakeFiles/top_ui05c_tests.dir/Engine/ui/screens/SkillsUI.cpp.o
+[ 31%] Linking CXX executable top_ui04h_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 31%] Built target top_ui04h_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05GTests.cpp' has modification time 88 s in the future
+[ 31%] Building CXX object CMakeFiles/top_ui05g_tests.dir/tests/UI05GTests.cpp.o
+[ 31%] Linking CXX executable top_ui05c_tests
+[ 31%] Building CXX object CMakeFiles/top_ui05f_tests.dir/Engine/src/top/ModelFile.cpp.o
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 31%] Built target top_ui05c_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/Tools/eff_inspect.cpp' has modification time 87 s in the future
+[ 31%] Building CXX object CMakeFiles/top_eff_inspect.dir/Tools/eff_inspect.cpp.o
+[ 32%] Building CXX object CMakeFiles/top_ui05f_tests.dir/Engine/src/top/TexturePaths.cpp.o
+[ 33%] Building CXX object CMakeFiles/top_ui05g_tests.dir/Engine/src/top/EffectSystem.cpp.o
+[ 33%] Building CXX object CMakeFiles/top_ui05f_tests.dir/Engine/src/top/MapFile.cpp.o
+[ 33%] Linking CXX executable top_eff_inspect
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 33%] Built target top_eff_inspect
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05HTests.cpp' has modification time 86 s in the future
+[ 33%] Building CXX object CMakeFiles/top_ui05h_tests.dir/tests/UI05HTests.cpp.o
+[ 33%] Building CXX object CMakeFiles/top_ui05h_tests.dir/Engine/src/top/EffectSystem.cpp.o
+[ 33%] Linking CXX executable top_ui05f_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 33%] Built target top_ui05f_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05ITests.cpp' has modification time 86 s in the future
+[ 33%] Building CXX object CMakeFiles/top_ui05i_tests.dir/tests/UI05ITests.cpp.o
+[ 33%] Building CXX object CMakeFiles/top_ui05g_tests.dir/Engine/src/top/ModelFile.cpp.o
+[ 34%] Building CXX object CMakeFiles/top_ui05h_tests.dir/Engine/src/top/ModelFile.cpp.o
+[ 34%] Building CXX object CMakeFiles/top_ui05i_tests.dir/Engine/src/top/EffectSystem.cpp.o
+[ 34%] Building CXX object CMakeFiles/top_ui05g_tests.dir/Engine/src/top/TexturePaths.cpp.o
+[ 34%] Building CXX object CMakeFiles/top_ui05h_tests.dir/Engine/src/top/TexturePaths.cpp.o
+[ 34%] Building CXX object CMakeFiles/top_ui05h_tests.dir/Engine/src/top/MapFile.cpp.o
+[ 35%] Building CXX object CMakeFiles/top_ui05g_tests.dir/Engine/src/top/MapFile.cpp.o
+[ 35%] Building CXX object CMakeFiles/top_ui05i_tests.dir/Engine/src/top/ModelFile.cpp.o
+[ 36%] Linking CXX executable top_ui05h_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 36%] Built target top_ui05h_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05JTests.cpp' has modification time 84 s in the future
+[ 36%] Building CXX object CMakeFiles/top_ui05j_tests.dir/tests/UI05JTests.cpp.o
+[ 36%] Linking CXX executable top_ui05g_tests
+[ 37%] Building CXX object CMakeFiles/top_ui05i_tests.dir/Engine/src/top/TexturePaths.cpp.o
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 37%] Built target top_ui05g_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05KTests.cpp' has modification time 83 s in the future
+[ 37%] Building CXX object CMakeFiles/top_ui05k_tests.dir/tests/UI05KTests.cpp.o
+[ 37%] Building CXX object CMakeFiles/top_ui05i_tests.dir/Engine/src/top/MapFile.cpp.o
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05LTests.cpp' has modification time 82 s in the future
+[ 37%] Linking CXX executable top_ui05i_tests
+[ 37%] Building CXX object CMakeFiles/top_ui05l_tests.dir/tests/UI05LTests.cpp.o
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 37%] Built target top_ui05i_tests
+[ 37%] Building CXX object CMakeFiles/top_ui05k_tests.dir/Engine/src/top/EffectSystem.cpp.o
+[ 38%] Building CXX object CMakeFiles/top_ui05j_tests.dir/Engine/src/top/EffectSystem.cpp.o
+[ 39%] Building CXX object CMakeFiles/top_ui05k_tests.dir/Engine/src/top/ModelFile.cpp.o
+[ 39%] Building CXX object CMakeFiles/top_ui05k_tests.dir/Engine/src/top/TexturePaths.cpp.o
+[ 39%] Building CXX object CMakeFiles/top_ui05l_tests.dir/Engine/src/top/EffectSystem.cpp.o
+[ 39%] Building CXX object CMakeFiles/top_ui05k_tests.dir/Engine/src/top/MapFile.cpp.o
+[ 39%] Building CXX object CMakeFiles/top_ui05l_tests.dir/Engine/src/top/ModelFile.cpp.o
+[ 40%] Linking CXX executable top_ui05k_tests
+[ 40%] Building CXX object CMakeFiles/top_ui05j_tests.dir/Engine/src/top/ModelFile.cpp.o
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 40%] Built target top_ui05k_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05MTests.cpp' has modification time 80 s in the future
+[ 41%] Building CXX object CMakeFiles/top_ui05m_tests.dir/tests/UI05MTests.cpp.o
+[ 41%] Linking CXX executable top_ui05m_tests
+[ 42%] Building CXX object CMakeFiles/top_ui05l_tests.dir/Engine/src/top/TexturePaths.cpp.o
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 42%] Built target top_ui05m_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05NTests.cpp' has modification time 80 s in the future
+[ 42%] Building CXX object CMakeFiles/top_ui05n_tests.dir/tests/UI05NTests.cpp.o
+[ 42%] Building CXX object CMakeFiles/top_ui05j_tests.dir/Engine/src/top/TexturePaths.cpp.o
+[ 42%] Building CXX object CMakeFiles/top_ui05n_tests.dir/Engine/src/top/PathFinder.cpp.o
+[ 43%] Building CXX object CMakeFiles/top_ui05n_tests.dir/Engine/src/top/MapFile.cpp.o
+[ 44%] Building CXX object CMakeFiles/top_ui05j_tests.dir/Engine/src/top/MapFile.cpp.o
+[ 44%] Building CXX object CMakeFiles/top_ui05l_tests.dir/Engine/src/top/MapFile.cpp.o
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05OTests.cpp' has modification time 79 s in the future
+[ 44%] Building CXX object CMakeFiles/top_ui05o_tests.dir/tests/UI05OTests.cpp.o
+[ 44%] Linking CXX executable top_ui05n_tests
+[ 44%] Linking CXX executable top_ui05j_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 44%] Built target top_ui05n_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05PTests.cpp' has modification time 79 s in the future
+[ 45%] Building CXX object CMakeFiles/top_ui05p_tests.dir/tests/UI05PTests.cpp.o
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 45%] Built target top_ui05j_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05QTests.cpp' has modification time 79 s in the future
+[ 45%] Building CXX object CMakeFiles/top_ui05q_tests.dir/tests/UI05QTests.cpp.o
+[ 45%] Linking CXX executable top_ui05l_tests
+[ 45%] Linking CXX executable top_ui05p_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 45%] Built target top_ui05p_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05RTests.cpp' has modification time 78 s in the future
+[ 45%] Building CXX object CMakeFiles/top_ui05r_tests.dir/tests/UI05RTests.cpp.o
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 45%] Built target top_ui05l_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05STests.cpp' has modification time 78 s in the future
+[ 46%] Building CXX object CMakeFiles/top_ui05s_tests.dir/tests/UI05STests.cpp.o
+[ 46%] Linking CXX executable top_ui05o_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 46%] Built target top_ui05o_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05TTests.cpp' has modification time 78 s in the future
+[ 47%] Building CXX object CMakeFiles/top_ui05t_tests.dir/tests/UI05TTests.cpp.o
+[ 48%] Linking CXX executable top_ui05q_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 48%] Built target top_ui05q_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05UTests.cpp' has modification time 78 s in the future
+[ 48%] Building CXX object CMakeFiles/top_ui05u_tests.dir/tests/UI05UTests.cpp.o
+[ 48%] Building CXX object CMakeFiles/top_ui05r_tests.dir/Engine/src/top/MonsterSpawnSystem.cpp.o
+[ 48%] Building CXX object CMakeFiles/top_ui05s_tests.dir/Engine/src/top/MonsterSpawnSystem.cpp.o
+[ 49%] Linking CXX executable top_ui05u_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 49%] Built target top_ui05u_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/Tools/stats_inspect.cpp' has modification time 77 s in the future
+[ 49%] Building CXX object CMakeFiles/top_stats_inspect.dir/Tools/stats_inspect.cpp.o
+[ 49%] Building CXX object CMakeFiles/top_ui05t_tests.dir/Engine/src/top/MonsterSpawnSystem.cpp.o
+[ 49%] Linking CXX executable top_stats_inspect
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 49%] Built target top_stats_inspect
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05VTests.cpp' has modification time 77 s in the future
+[ 49%] Building CXX object CMakeFiles/top_ui05v_tests.dir/tests/UI05VTests.cpp.o
+[ 49%] Linking CXX executable top_ui05v_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 49%] Built target top_ui05v_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05VPlayTests.cpp' has modification time 76 s in the future
+[ 49%] Building CXX object CMakeFiles/top_ui05v_play_tests.dir/tests/UI05VPlayTests.cpp.o
+[ 49%] Linking CXX executable top_ui05r_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 49%] Built target top_ui05r_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05WTests.cpp' has modification time 75 s in the future
+[ 49%] Building CXX object CMakeFiles/top_ui05w_tests.dir/tests/UI05WTests.cpp.o
+[ 49%] Linking CXX executable top_ui05s_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 49%] Built target top_ui05s_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05W1Tests.cpp' has modification time 75 s in the future
+[ 49%] Building CXX object CMakeFiles/top_ui05w1_tests.dir/tests/UI05W1Tests.cpp.o
+[ 49%] Building CXX object CMakeFiles/top_ui05v_play_tests.dir/Engine/src/top/Play.cpp.o
+[ 49%] Linking CXX executable top_ui05t_tests
+[ 50%] Linking CXX executable top_ui05w1_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 50%] Built target top_ui05t_tests
+[ 50%] Linking CXX executable top_ui05w_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 50%] Built target top_ui05w1_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05W2Tests.cpp' has modification time 75 s in the future
+[ 50%] Building CXX object CMakeFiles/top_ui05w2_tests.dir/tests/UI05W2Tests.cpp.o
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05XTests.cpp' has modification time 75 s in the future
+[ 50%] Building CXX object CMakeFiles/top_ui05x_tests.dir/tests/UI05XTests.cpp.o
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 50%] Built target top_ui05w_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05X1Tests.cpp' has modification time 74 s in the future
+[ 51%] Building CXX object CMakeFiles/top_ui05x1_tests.dir/tests/UI05X1Tests.cpp.o
+[ 51%] Linking CXX executable top_ui05x1_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 51%] Built target top_ui05x1_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05X2Tests.cpp' has modification time 74 s in the future
+[ 51%] Building CXX object CMakeFiles/top_ui05x2_tests.dir/tests/UI05X2Tests.cpp.o
+[ 51%] Linking CXX executable top_ui05x_tests
+[ 51%] Building CXX object CMakeFiles/top_ui05w2_tests.dir/Engine/ui/screens/SkillsUI.cpp.o
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 51%] Built target top_ui05x_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05X3Tests.cpp' has modification time 74 s in the future
+[ 52%] Building CXX object CMakeFiles/top_ui05x3_tests.dir/tests/UI05X3Tests.cpp.o
+[ 52%] Linking CXX executable top_ui05x2_tests
+[ 52%] Building CXX object CMakeFiles/top_ui05w2_tests.dir/Engine/ui/UIRenderer.cpp.o
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 52%] Built target top_ui05x2_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05X4Tests.cpp' has modification time 74 s in the future
+[ 52%] Building CXX object CMakeFiles/top_ui05x4_tests.dir/tests/UI05X4Tests.cpp.o
+[ 53%] Linking CXX executable top_ui05w2_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 53%] Built target top_ui05w2_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05X5Tests.cpp' has modification time 73 s in the future
+[ 53%] Building CXX object CMakeFiles/top_ui05x5_tests.dir/tests/UI05X5Tests.cpp.o
+[ 54%] Linking CXX executable top_ui05x4_tests
+[ 54%] Building CXX object CMakeFiles/top_ui05x3_tests.dir/Engine/src/top/SceneWorld.cpp.o
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 54%] Built target top_ui05x4_tests
+[ 54%] Building CXX object CMakeFiles/top_ui05x3_tests.dir/Engine/src/top/ModelFile.cpp.o
+[ 54%] Linking CXX executable top_ui05x5_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 54%] Built target top_ui05x5_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05X6Tests.cpp' has modification time 73 s in the future
+[ 55%] Building CXX object CMakeFiles/top_ui05x6_tests.dir/tests/UI05X6Tests.cpp.o
+[ 55%] Linking CXX executable top_ui05x6_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 56%] Building CXX object CMakeFiles/top_ui05x3_tests.dir/Engine/src/top/TexturePaths.cpp.o
+[ 56%] Built target top_ui05x6_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05YTests.cpp' has modification time 73 s in the future
+[ 57%] Building CXX object CMakeFiles/top_ui05y_tests.dir/tests/UI05YTests.cpp.o
+[ 57%] Building CXX object CMakeFiles/top_ui05x3_tests.dir/Engine/src/top/MapFile.cpp.o
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05ZTests.cpp' has modification time 72 s in the future
+[ 57%] Building CXX object CMakeFiles/top_ui05z_tests.dir/tests/UI05ZTests.cpp.o
+[ 57%] Linking CXX executable top_ui05y_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 57%] Built target top_ui05y_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05AATests.cpp' has modification time 72 s in the future
+[ 57%] Building CXX object CMakeFiles/top_ui05aa_tests.dir/tests/UI05AATests.cpp.o
+[ 57%] Linking CXX executable top_ui05x3_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 57%] Built target top_ui05x3_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05ABTests.cpp' has modification time 71 s in the future
+[ 58%] Building CXX object CMakeFiles/top_ui05ab_tests.dir/tests/UI05ABTests.cpp.o
+[ 58%] Building CXX object CMakeFiles/top_ui05ab_tests.dir/Engine/ui/UIManager.cpp.o
+[ 58%] Building CXX object CMakeFiles/top_ui05ab_tests.dir/Engine/ui/UIRenderer.cpp.o
+[ 59%] Building CXX object CMakeFiles/top_ui05ab_tests.dir/Engine/ui/screens/InventoryUI.cpp.o
+[ 59%] Linking CXX executable top_ui05aa_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 59%] Built target top_ui05aa_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05ACTests.cpp' has modification time 70 s in the future
+[ 59%] Building CXX object CMakeFiles/top_ui05ac_tests.dir/tests/UI05ACTests.cpp.o
+[ 60%] Linking CXX executable top_ui05z_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 60%] Built target top_ui05z_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05ADTests.cpp' has modification time 70 s in the future
+[ 60%] Building CXX object CMakeFiles/top_ui05ad_tests.dir/tests/UI05ADTests.cpp.o
+[ 60%] Building CXX object CMakeFiles/top_ui05ab_tests.dir/Engine/ui/screens/SkillsUI.cpp.o
+[ 61%] Building CXX object CMakeFiles/top_ui05ac_tests.dir/Engine/ui/screens/ForgeWorkbenchUI.cpp.o
+[ 61%] Linking CXX executable top_ui05ab_tests
+[ 62%] Building CXX object CMakeFiles/top_ui05ad_tests.dir/Engine/src/npc/NpcSystem.cpp.o
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 62%] Built target top_ui05ab_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05AETests.cpp' has modification time 69 s in the future
+[ 62%] Building CXX object CMakeFiles/top_ui05ae_tests.dir/tests/UI05AETests.cpp.o
+[ 62%] Building CXX object CMakeFiles/top_ui05ac_tests.dir/Engine/ui/UIManager.cpp.o
+[ 62%] Building CXX object CMakeFiles/top_ui05ac_tests.dir/Engine/ui/UIRenderer.cpp.o
+[ 62%] Linking CXX executable top_ui05ae_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 62%] Built target top_ui05ae_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05AFTests.cpp' has modification time 69 s in the future
+[ 62%] Building CXX object CMakeFiles/top_ui05af_tests.dir/tests/UI05AFTests.cpp.o
+[ 63%] Building CXX object CMakeFiles/top_ui05ac_tests.dir/Engine/ui/screens/InventoryUI.cpp.o
+[ 64%] Building CXX object CMakeFiles/top_ui05v_play_tests.dir/Engine/src/item/PlayItems.cpp.o
+[ 65%] Building CXX object CMakeFiles/top_ui05af_tests.dir/Engine/src/top/AssetAudit.cpp.o
+[ 65%] Building CXX object CMakeFiles/top_ui05ad_tests.dir/Engine/src/mission/MissionCatalog.cpp.o
+[ 65%] Building CXX object CMakeFiles/top_ui05ac_tests.dir/Engine/ui/screens/SkillsUI.cpp.o
+[ 65%] Linking CXX executable top_ui05ac_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 65%] Built target top_ui05ac_tests
+[ 65%] Building CXX object CMakeFiles/top_ui05ad_tests.dir/Engine/ui/screens/NpcDialogUI.cpp.o
+[ 66%] Building CXX object CMakeFiles/top_ui05ad_tests.dir/Engine/ui/screens/ForgeWorkbenchUI.cpp.o
+[ 66%] Building CXX object CMakeFiles/top_ui05ad_tests.dir/Engine/ui/UIRenderer.cpp.o
+[ 66%] Building CXX object CMakeFiles/top_ui05ad_tests.dir/Engine/ui/screens/InventoryUI.cpp.o
+[ 66%] Building CXX object CMakeFiles/top_ui05af_tests.dir/Engine/src/top/MapFile.cpp.o
+[ 66%] Building CXX object CMakeFiles/top_ui05ad_tests.dir/Engine/ui/screens/SkillsUI.cpp.o
+[ 66%] Building CXX object CMakeFiles/top_ui05v_play_tests.dir/Engine/src/mission/MissionCatalog.cpp.o
+[ 66%] Linking CXX executable top_ui05af_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 67%] Built target top_ui05af_tests
+[ 67%] Linking CXX executable top_ui05ad_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05AGTests.cpp' has modification time 66 s in the future
+[ 68%] Building CXX object CMakeFiles/top_ui05ag_tests.dir/tests/UI05AGTests.cpp.o
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05AHTests.cpp' has modification time 66 s in the future
+[ 68%] Building CXX object CMakeFiles/top_ui05ah_tests.dir/tests/UI05AHTests.cpp.o
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 68%] Built target top_ui05ad_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05AITests.cpp' has modification time 66 s in the future
+[ 68%] Building CXX object CMakeFiles/top_ui05ai_tests.dir/tests/UI05AITests.cpp.o
+[ 69%] Building CXX object CMakeFiles/top_ui05ah_tests.dir/Engine/src/top/AssetAudit.cpp.o
+[ 70%] Building CXX object CMakeFiles/top_ui05ai_tests.dir/Engine/src/top/AssetAudit.cpp.o
+[ 70%] Building CXX object CMakeFiles/top_ui05v_play_tests.dir/Engine/src/mission/PlayMissions.cpp.o
+[ 70%] Building CXX object CMakeFiles/top_ui05ag_tests.dir/Engine/src/npc/NpcSystem.cpp.o
+[ 70%] Building CXX object CMakeFiles/top_ui05ah_tests.dir/Engine/src/top/MapFile.cpp.o
+[ 70%] Building CXX object CMakeFiles/top_ui05ag_tests.dir/Engine/src/mission/MissionCatalog.cpp.o
+[ 70%] Building CXX object CMakeFiles/top_ui05ai_tests.dir/Engine/src/top/MapFile.cpp.o
+[ 70%] Linking CXX executable top_ui05ah_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 70%] Built target top_ui05ah_tests
+[ 70%] Building CXX object CMakeFiles/top_ui05ag_tests.dir/Engine/src/top/PortalSystem.cpp.o
+[ 70%] Linking CXX executable top_ui05ai_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 70%] Built target top_ui05ai_tests
+[ 71%] Building CXX object CMakeFiles/top_ui05ag_tests.dir/Engine/src/top/MonsterSpawnSystem.cpp.o
+[ 71%] Building CXX object CMakeFiles/top_ui05v_play_tests.dir/Engine/src/mission/PlayMissionJournal.cpp.o
+[ 72%] Building CXX object CMakeFiles/top_ui05v_play_tests.dir/Engine/src/npc/PlayNpcInteraction.cpp.o
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05AJTests.cpp' has modification time 63 s in the future
+[ 73%] Building CXX object CMakeFiles/top_ui05aj_tests.dir/tests/UI05AJTests.cpp.o
+[ 73%] Building CXX object CMakeFiles/top_ui05aj_tests.dir/Engine/src/npc/NpcSystem.cpp.o
+[ 73%] Building CXX object CMakeFiles/top_ui05v_play_tests.dir/Engine/src/top/MapFile.cpp.o
+[ 73%] Building CXX object CMakeFiles/top_ui05v_play_tests.dir/Engine/src/top/PathFinder.cpp.o
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05AKTests.cpp' has modification time 61 s in the future
+[ 73%] Building CXX object CMakeFiles/top_ui05ak_tests.dir/tests/UI05AKTests.cpp.o
+[ 73%] Building CXX object CMakeFiles/top_ui05aj_tests.dir/Engine/src/mission/MissionCatalog.cpp.o
+[ 74%] Linking CXX executable top_ui05v_play_tests
+[ 75%] Building CXX object CMakeFiles/top_ui05ak_tests.dir/Engine/ui/UIRenderer.cpp.o
+[ 75%] Linking CXX executable top_ui05ag_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 75%] Built target top_ui05v_play_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05AK1Tests.cpp' has modification time 61 s in the future
+[ 76%] Building CXX object CMakeFiles/top_ui05ak1_tests.dir/tests/UI05AK1Tests.cpp.o
+[ 76%] Building CXX object CMakeFiles/top_ui05ak_tests.dir/Engine/ui/screens/NpcDialogUI.cpp.o
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 76%] Built target top_ui05ag_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05AK2Tests.cpp' has modification time 61 s in the future
+[ 76%] Building CXX object CMakeFiles/top_ui05ak2_tests.dir/tests/UI05AK2Tests.cpp.o
+[ 76%] Building CXX object CMakeFiles/top_ui05ak_tests.dir/Engine/ui/screens/QuestUI.cpp.o
+[ 77%] Linking CXX executable top_ui05ak_tests
+[ 77%] Linking CXX executable top_ui05ak2_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 77%] Built target top_ui05ak_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 77%] Built target top_ui05ak2_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05AK3Tests.cpp' has modification time 60 s in the future
+[ 77%] Building CXX object CMakeFiles/top_ui05ak3_tests.dir/tests/UI05AK3Tests.cpp.o
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05ALTests.cpp' has modification time 60 s in the future
+[ 77%] Building CXX object CMakeFiles/top_ui05al_tests.dir/tests/UI05ALTests.cpp.o
+[ 77%] Building CXX object CMakeFiles/top_ui05ak1_tests.dir/Engine/src/npc/NpcSystem.cpp.o
+[ 77%] Linking CXX executable top_ui05aj_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 77%] Built target top_ui05aj_tests
+[ 77%] Building CXX object CMakeFiles/top_ui05al_tests.dir/Engine/ui/UIRenderer.cpp.o
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05AMTests.cpp' has modification time 60 s in the future
+[ 77%] Building CXX object CMakeFiles/top_ui05am_tests.dir/tests/UI05AMTests.cpp.o
+[ 77%] Building CXX object CMakeFiles/top_ui05al_tests.dir/Engine/ui/screens/QuestUI.cpp.o
+[ 78%] Linking CXX executable top_ui05al_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 78%] Built target top_ui05al_tests
+[ 78%] Building CXX object CMakeFiles/top_ui05am_tests.dir/Engine/src/npc/NpcSystem.cpp.o
+[ 79%] Building CXX object CMakeFiles/top_ui05ak3_tests.dir/Engine/src/npc/NpcSystem.cpp.o
+[ 80%] Building CXX object CMakeFiles/top_ui05am_tests.dir/Engine/src/mission/MissionCatalog.cpp.o
+[ 80%] Building CXX object CMakeFiles/top_ui05ak1_tests.dir/Engine/src/mission/MissionCatalog.cpp.o
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05AOTests.cpp' has modification time 58 s in the future
+[ 80%] Building CXX object CMakeFiles/top_ui05ao_tests.dir/tests/UI05AOTests.cpp.o
+[ 80%] Building CXX object CMakeFiles/top_ui05ak3_tests.dir/Engine/src/mission/MissionCatalog.cpp.o
+[ 80%] Linking CXX executable top_ui05ao_tests
+[ 80%] Linking CXX executable top_ui05am_tests
+[ 81%] Linking CXX executable top_ui05ak1_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 81%] Built target top_ui05ao_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05APTests.cpp' has modification time 58 s in the future
+[ 82%] Building CXX object CMakeFiles/top_ui05ap_tests.dir/tests/UI05APTests.cpp.o
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 82%] Built target top_ui05am_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05AQTests.cpp' has modification time 58 s in the future
+[ 82%] Building CXX object CMakeFiles/top_ui05aq_tests.dir/tests/UI05AQTests.cpp.o
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 82%] Built target top_ui05ak1_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05ARTests.cpp' has modification time 58 s in the future
+[ 82%] Building CXX object CMakeFiles/top_ui05ar_tests.dir/tests/UI05ARTests.cpp.o
+[ 82%] Building CXX object CMakeFiles/top_ui05ap_tests.dir/Engine/src/npc/NpcSystem.cpp.o
+[ 82%] Building CXX object CMakeFiles/top_ui05ar_tests.dir/Engine/src/npc/NpcSystem.cpp.o
+[ 82%] Linking CXX executable top_ui05ak3_tests
+[ 82%] Building CXX object CMakeFiles/top_ui05aq_tests.dir/Engine/src/npc/NpcSystem.cpp.o
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 82%] Built target top_ui05ak3_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05ASTests.cpp' has modification time 358 s in the future
+[ 82%] Building CXX object CMakeFiles/top_ui05as_tests.dir/tests/UI05ASTests.cpp.o
+[ 82%] Building CXX object CMakeFiles/top_ui05as_tests.dir/Engine/ui/screens/NpcDialogUI.cpp.o
+[ 82%] Building CXX object CMakeFiles/top_ui05ap_tests.dir/Engine/src/mission/MissionCatalog.cpp.o
+[ 83%] Building CXX object CMakeFiles/top_ui05as_tests.dir/Engine/ui/UIRenderer.cpp.o
+[ 83%] Building CXX object CMakeFiles/top_ui05ar_tests.dir/Engine/src/mission/MissionCatalog.cpp.o
+[ 83%] Linking CXX executable top_ui05as_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 83%] Built target top_ui05as_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05ATTests.cpp' has modification time 1387 s in the future
+[ 83%] Building CXX object CMakeFiles/top_ui05at_tests.dir/tests/UI05ATTests.cpp.o
+[ 83%] Building CXX object CMakeFiles/top_ui05aq_tests.dir/Engine/src/mission/MissionCatalog.cpp.o
+[ 83%] Building CXX object CMakeFiles/top_ui05at_tests.dir/Engine/ui/UIRenderer.cpp.o
+[ 84%] Building CXX object CMakeFiles/top_ui05at_tests.dir/Engine/ui/screens/NpcDialogUI.cpp.o
+[ 85%] Linking CXX executable top_ui05ap_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 85%] Built target top_ui05ap_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05ATDomainsTests.cpp' has modification time 1685 s in the future
+[ 85%] Building CXX object CMakeFiles/top_ui05at_domains_tests.dir/tests/UI05ATDomainsTests.cpp.o
+[ 86%] Linking CXX executable top_ui05ar_tests
+[ 86%] Linking CXX executable top_ui05at_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 86%] Built target top_ui05at_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05AUTests.cpp' has modification time 2836 s in the future
+[ 86%] Building CXX object CMakeFiles/top_ui05au_tests.dir/tests/UI05AUTests.cpp.o
+[ 86%] Built target top_ui05ar_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05AVTests.cpp' has modification time 4300 s in the future
+[ 86%] Building CXX object CMakeFiles/top_ui05av_tests.dir/tests/UI05AVTests.cpp.o
+[ 87%] Linking CXX executable top_ui05aq_tests
+[ 87%] Building CXX object CMakeFiles/top_ui05at_domains_tests.dir/Engine/src/mission/MissionCatalog.cpp.o
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 87%] Built target top_ui05aq_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05AWTests.cpp' has modification time 5996 s in the future
+[ 88%] Building CXX object CMakeFiles/top_ui05aw_tests.dir/tests/UI05AWTests.cpp.o
+[ 88%] Linking CXX executable top_ui05av_tests
+[ 88%] Building CXX object CMakeFiles/top_ui05au_tests.dir/Engine/src/mission/MissionCatalog.cpp.o
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 88%] Built target top_ui05av_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05AXTests.cpp' has modification time 7076 s in the future
+[ 88%] Building CXX object CMakeFiles/top_ui05ax_tests.dir/tests/UI05AXTests.cpp.o
+[ 88%] Linking CXX executable top_ui05aw_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 88%] Built target top_ui05aw_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05AYTests.cpp' has modification time 8330 s in the future
+[ 89%] Building CXX object CMakeFiles/top_ui05ay_tests.dir/tests/UI05AYTests.cpp.o
+[ 89%] Linking CXX executable top_ui05ax_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 89%] Built target top_ui05ax_tests
+[ 89%] Linking CXX executable top_ui05ay_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/tests/UI05AZTests.cpp' has modification time 9529 s in the future
+[ 89%] Building CXX object CMakeFiles/top_ui05az_tests.dir/tests/UI05AZTests.cpp.o
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 89%] Built target top_ui05ay_tests
+gmake[2]: Warning: File '/home/elieltavares/DEV/TOP2/TalesOfPirateDX9/sources/Engine/src/top/MapFile.cpp' has modification time 54 s in the future
+[ 89%] Building CXX object CMakeFiles/top_gl.dir/Engine/src/top/MapFile.cpp.o
+[ 90%] Linking CXX executable top_ui05az_tests
+[ 91%] Linking CXX executable top_ui05at_domains_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 91%] Built target top_ui05az_tests
+[ 92%] Building CXX object CMakeFiles/top_gl.dir/Engine/src/top/AssetAudit.cpp.o
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 92%] Built target top_ui05at_domains_tests
+[ 92%] Building CXX object CMakeFiles/top_gl.dir/Engine/src/top/PathFinder.cpp.o
+[ 92%] Building CXX object CMakeFiles/top_gl.dir/Engine/src/top/Image.cpp.o
+[ 93%] Linking CXX executable top_ui05au_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 93%] Built target top_ui05au_tests
+[ 94%] Building CXX object CMakeFiles/top_gl.dir/Engine/src/top/TexturePaths.cpp.o
+[ 94%] Building CXX object CMakeFiles/top_gl.dir/Engine/src/top/TerrainTable.cpp.o
+[ 94%] Building CXX object CMakeFiles/top_gl.dir/Engine/src/top/AreaLighting.cpp.o
+[ 94%] Building CXX object CMakeFiles/top_gl.dir/Engine/src/top/TerrainMesh.cpp.o
+[ 95%] Building CXX object CMakeFiles/top_gl.dir/Engine/src/top/ModelFile.cpp.o
+[ 95%] Building CXX object CMakeFiles/top_gl.dir/Engine/src/top/SceneWorld.cpp.o
+[ 95%] Building CXX object CMakeFiles/top_gl.dir/Engine/src/top/ActorSkin.cpp.o
+[ 96%] Building CXX object CMakeFiles/top_gl.dir/Engine/ui/ActorSkinUIBridge.cpp.o
+[ 96%] Building CXX object CMakeFiles/top_gl.dir/Engine/src/top/Font.cpp.o
+[ 96%] Building CXX object CMakeFiles/top_gl.dir/Engine/src/top/Cursor.cpp.o
+[ 96%] Building CXX object CMakeFiles/top_gl.dir/Engine/src/top/EffectSystem.cpp.o
+[ 97%] Building CXX object CMakeFiles/top_gl.dir/Engine/src/top/AudioSystem.cpp.o
+[ 97%] Building CXX object CMakeFiles/top_gl.dir/Engine/src/top/PortalSystem.cpp.o
+[ 97%] Building CXX object CMakeFiles/top_gl.dir/Engine/src/npc/NpcSystem.cpp.o
+[ 98%] Building CXX object CMakeFiles/top_gl.dir/Engine/src/mission/MissionCatalog.cpp.o
+[ 98%] Building CXX object CMakeFiles/top_gl.dir/Engine/src/top/MonsterSpawnSystem.cpp.o
+[ 98%] Building CXX object CMakeFiles/top_gl.dir/Engine/src/top/Play.cpp.o
+[ 98%] Building CXX object CMakeFiles/top_gl.dir/Engine/src/item/PlayItems.cpp.o
+[ 99%] Building CXX object CMakeFiles/top_gl.dir/Engine/src/mission/PlayMissions.cpp.o
+[ 99%] Building CXX object CMakeFiles/top_gl.dir/Engine/src/mission/PlayMissionJournal.cpp.o
+[ 99%] Building CXX object CMakeFiles/top_gl.dir/Engine/src/npc/PlayNpcInteraction.cpp.o
+[ 99%] Building CXX object CMakeFiles/top_gl.dir/Engine/src/gl/GfxDeviceGL.cpp.o
+[100%] Building CXX object CMakeFiles/top_gl.dir/Engine/src/gl/GlxWindow.cpp.o
+[100%] Building CXX object CMakeFiles/top_gl.dir/Platform/linux/main.cpp.o
+[100%] Linking CXX executable top_gl
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[100%] Built target top_gl

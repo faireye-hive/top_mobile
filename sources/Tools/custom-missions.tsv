@@ -1,0 +1,5 @@
+# Missões offline próprias. Cada linha ativa é uma missão entregue no Argent Mission Board.
+# Formato TSV: ID(>=900000) | Título | Texto/objetivo | Nível mínimo | Objetivos | EXP | Ouro | Recompensas
+# Objetivos: kill:ID_MONSTRO:QUANTIDADE;item:ID_ITEM:QUANTIDADE
+# Recompensas: ID_ITEM:QUANTIDADE;ID_ITEM:QUANTIDADE (use campo vazio se não houver)
+# Exemplo: 900001<TAB>Teste de coleta<TAB>Entregue 3 poções.<TAB>1<TAB>item:8:3<TAB>50<TAB>100<TAB>15:1

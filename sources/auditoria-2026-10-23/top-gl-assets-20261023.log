@@ -1,0 +1,8 @@
+05-AI inventario: 53 mapas (52 cabecalhos validos), 26 com NPC, 26 com ChaSpn, 26 com portais
+  faltas obrigatorias: 1; opcionais: 87; diferencas maiusculas/minusculas: 13; invalidos: 0
+  cena: 47 .obj analisados; 266852 instancias; 628 modelos distintos usados; 78 modelos usados ausentes; 0 usados com caixa diferente; 32 instancias sem ID valido; 554 modelos catalogados nao referenciados nos .obj analisados
+  impacto: 1944 instancias ausentes em 8 mapas
+  JSON: /tmp/top-gl-assets-20261023.json
+  CSV: /tmp/top-gl-assets-20261023.csv
+  Impacto CSV: /tmp/top-gl-impact-20261023.csv
+  Modelos ausentes TXT: /tmp/top-gl-missing-20261023.txt
